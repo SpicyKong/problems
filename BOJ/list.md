@@ -4,3 +4,5 @@
  [컬러볼](https://www.acmicpc.net/problem/10800) :exclamation:(실패)
 # [Q_10805](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10805.py)
  [L모양 종이 자르기](https://www.acmicpc.net/problem/10805) :exclamation:(실패)
+# [Q_1000](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1000.py)
+ [A + B](https://www.acmicpc.net/problem/1000) :smile:(성공)
