@@ -1,4 +1,4 @@
-# [Q_10804](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10804.py) (클릭하시면 소스코드로 이동)
+# [Q_10804](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10804.py) (클릭하시면 소스코드로 이동)<!-- 2019/07/29(월) 시작 -->
  [카드 역배치](https://www.acmicpc.net/problem/10804) :smile:(성공) (클릭하시면 문제로 이동)
 # [Q_10800](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10800.py)
  [컬러볼](https://www.acmicpc.net/problem/10800) :exclamation:(실패)
@@ -6,3 +6,5 @@
  [L모양 종이 자르기](https://www.acmicpc.net/problem/10805) :exclamation:(실패)
 # [Q_1000](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1000.py)
  [A + B](https://www.acmicpc.net/problem/1000) :smile:(성공)
+# [Q_2747](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2747.py)
+ [A + B](https://www.acmicpc.net/problem/2747) :smile:(성공)
