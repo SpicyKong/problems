@@ -8,3 +8,5 @@
  [A + B](https://www.acmicpc.net/problem/1000) :smile:(성공)
 # [Q_2747](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2747.py)
  [피보나치 수](https://www.acmicpc.net/problem/2747) :smile:(성공)
+# [Q_1463](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1463.py)
+ [1로 만들기](https://www.acmicpc.net/problem/1463) :exclamation:(실패)
