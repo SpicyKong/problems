@@ -7,4 +7,4 @@
 # [Q_1000](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1000.py)
  [A + B](https://www.acmicpc.net/problem/1000) :smile:(성공)
 # [Q_2747](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2747.py)
- [A + B](https://www.acmicpc.net/problem/2747) :smile:(성공)
+ [피보나치 수](https://www.acmicpc.net/problem/2747) :smile:(성공)
