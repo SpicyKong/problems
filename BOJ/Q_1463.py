@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/1463 문제 제목 : 1로 만들기 , 언어 : Python, 날짜 : 20190803, 결과 : 실패
 
 n=int(input())
 list_dp = [0 for _ in range(n+1)]
