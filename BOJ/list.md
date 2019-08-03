@@ -1,3 +1,5 @@
+# 풀어야할 번호
+> 4673,1463, 1005, 10805
 # [Q_10804](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10804.py) (클릭하시면 소스코드로 이동)<!-- 2019/07/29(월) 시작 -->
  [카드 역배치](https://www.acmicpc.net/problem/10804) :smile:(성공) (클릭하시면 문제로 이동)
 # [Q_10800](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10800.py)
