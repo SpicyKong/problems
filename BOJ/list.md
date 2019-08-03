@@ -10,3 +10,5 @@
  [피보나치 수](https://www.acmicpc.net/problem/2747) :smile:(성공)
 # [Q_1463](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1463.py)
  [1로 만들기](https://www.acmicpc.net/problem/1463) :exclamation:(실패)
+# [Q_15596](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_15596.py)
+ [정수 N개의 합](https://www.acmicpc.net/problem/15596) :smile:(성공)
