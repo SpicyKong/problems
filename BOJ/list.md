@@ -15,4 +15,4 @@
 # [Q_15596](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_15596.py)
  [정수 N개의 합](https://www.acmicpc.net/problem/15596) :smile:(성공)
 # [Q_2869](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2869.py)
- [달팽이는 올라가고 ](https://www.acmicpc.net/problem/2869) :smile:(성공)
+ [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) :smile:(성공)
