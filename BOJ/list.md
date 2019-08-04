@@ -16,3 +16,7 @@
  [정수 N개의 합](https://www.acmicpc.net/problem/15596) :smile:(성공)
 # [Q_2869](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2869.py)
  [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) :smile:(성공)
+# [Q_1712](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1712.py)
+ [손익분기점](https://www.acmicpc.net/problem/1712) :smile:(성공)
+ # [Q_2839](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2839.py)
+ [설탕배달](https://www.acmicpc.net/problem/2839) :smile:(성공)
