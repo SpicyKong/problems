@@ -1,22 +1,16 @@
 # 풀어야할 번호
-> 4673,1463, 1005, 10805
-# [Q_10804](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10804.py) (클릭하시면 소스코드로 이동)<!-- 2019/07/29(월) 시작 -->
- [카드 역배치](https://www.acmicpc.net/problem/10804) :smile:(성공) (클릭하시면 문제로 이동)
-# [Q_10800](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10800.py)
- [컬러볼](https://www.acmicpc.net/problem/10800) :exclamation:(실패)
-# [Q_10805](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10805.py)
- [L모양 종이 자르기](https://www.acmicpc.net/problem/10805) :exclamation:(실패)
-# [Q_1000](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1000.py)
- [A + B](https://www.acmicpc.net/problem/1000) :smile:(성공)
-# [Q_2747](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2747.py)
- [피보나치 수](https://www.acmicpc.net/problem/2747) :smile:(성공)
-# [Q_1463](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1463.py)
- [1로 만들기](https://www.acmicpc.net/problem/1463) :exclamation:(실패)
-# [Q_15596](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_15596.py)
- [정수 N개의 합](https://www.acmicpc.net/problem/15596) :smile:(성공)
-# [Q_2869](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2869.py)
- [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) :smile:(성공)
-# [Q_1712](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1712.py)
- [손익분기점](https://www.acmicpc.net/problem/1712) :smile:(성공)
- # [Q_2839](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2839.py)
- [설탕배달](https://www.acmicpc.net/problem/2839) :smile:(성공)
+4673,1463, 1005, 10805
+# 풀었던 문제
+| 문제 번호 | 문제이름 | 결과 |
+| :--- | :---: | ---: |
+|[Q_10804](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10804.py) (클릭하시면 소스코드로 이동)<!-- 2019/07/29(월) 시작 -->|[카드 역배치](https://www.acmicpc.net/problem/10804)(클릭하시면 문제로 이동)| :smile:(성공) |
+|[Q_10800](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10800.py)|[컬러볼](https://www.acmicpc.net/problem/10800)| :exclamation:(실패)|
+|[Q_10805](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10805.py)|[L모양 종이 자르기](https://www.acmicpc.net/problem/10805)|:exclamation:(실패)|
+|[Q_1000](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1000.py)|[A + B](https://www.acmicpc.net/problem/1000)| :smile:(성공)|
+|[Q_2747](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2747.py)|[피보나치 수](https://www.acmicpc.net/problem/2747)| :smile:(성공)|
+|[Q_1463](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1463.py)|[1로 만들기](https://www.acmicpc.net/problem/1463)| :exclamation:(실패)|
+|[Q_15596](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_15596.py)|[정수 N개의 합](https://www.acmicpc.net/problem/15596)| :smile:(성공)|
+|[Q_2869](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2869.py)|[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|:smile:(성공)|
+|[Q_1712](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1712.py)|[손익분기점](https://www.acmicpc.net/problem/1712)|:smile:(성공)|
+|[Q_2839](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2839.py)|[설탕배달](https://www.acmicpc.net/problem/2839)|:smile:(성공)|
+
