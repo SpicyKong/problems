@@ -14,3 +14,4 @@
 |[Q_1712](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1712.py)|[손익분기점](https://www.acmicpc.net/problem/1712)|:smile:(성공)|
 |[Q_2839](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2839.py)|[설탕배달](https://www.acmicpc.net/problem/2839)|:smile:(성공)|
 
+test
