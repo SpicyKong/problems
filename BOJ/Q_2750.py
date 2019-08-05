@@ -1,5 +1,7 @@
 # https://www.acmicpc.net/problem/2750 문제 제목 : 수 정렬하기 , 언어 : Python, 날짜 : 2019-08-05, 결과 : 성공
 
+# 근데 수 정렬하기2에서는 시간 초과가 난다. 개선해야겠다.
+
 num = int(input())
 list_a = []
 list_a.append(int(input()))
