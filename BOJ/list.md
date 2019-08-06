@@ -16,3 +16,7 @@
 |[Q_2750](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2750.py)|[수 정렬하기](https://www.acmicpc.net/problem/2750)|:smile:(성공)|
 |[Q_1152](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1152.py)|[단어의 개수](https://www.acmicpc.net/problem/1152)|:smile:(성공)|
 |[Q_13458](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_13458.py)|[시험 감독](https://www.acmicpc.net/problem/13458)|:smile:(성공)|
+|[Q_1008](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1008.py)|[A/B](https://www.acmicpc.net/problem/1008)|:smile:(성공)|
+|[Q_1001](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1001.py)|[A-B](https://www.acmicpc.net/problem/1001)|:smile:(성공)|
+|[Q_2577](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2577.py)|[숫자의 개수](https://www.acmicpc.net/problem/2577)|:smile:(성공)|
+|[Q_1978](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1978.py)|[소수 찾기](https://www.acmicpc.net/problem/1978)|:smile:(성공)|
