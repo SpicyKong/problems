@@ -20,3 +20,4 @@
 |[Q_1001](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1001.py)|[A-B](https://www.acmicpc.net/problem/1001)|:smile:(성공)|
 |[Q_2577](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2577.py)|[숫자의 개수](https://www.acmicpc.net/problem/2577)|:smile:(성공)|
 |[Q_1978](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1978.py)|[소수 찾기](https://www.acmicpc.net/problem/1978)|:smile:(성공)|
+|[Q_6986](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_6986.py)|[절사평균](https://www.acmicpc.net/problem/6986)|:exclamation:(실패)|
