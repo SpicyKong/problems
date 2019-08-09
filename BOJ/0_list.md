@@ -23,3 +23,4 @@
 |[Q_6986](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_6986.py)|[절사평균](https://www.acmicpc.net/problem/6986)|:exclamation:(실패)|
 |[Q_10817](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10817.py)|[세 수](https://www.acmicpc.net/problem/10817)|:smile:(성공)|
 |[Q_11723](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11723.py)|[집합](https://www.acmicpc.net/problem/11723)|:smile:(성공)|
+|[Q_2753](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2753.py)|[윤년](https://www.acmicpc.net/problem/2753)|:smile:(성공)|
