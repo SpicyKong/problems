@@ -25,3 +25,4 @@
 |[Q_11723](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11723.py)|[집합](https://www.acmicpc.net/problem/11723)|:smile:(성공)|
 |[Q_2753](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2753.py)|[윤년](https://www.acmicpc.net/problem/2753)|:smile:(성공)|
 |[Q_2739](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2739.py)|[구구단](https://www.acmicpc.net/problem/2739)|:smile:(성공)|
+|[Q_2438](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2438.py)|[별 찍기 - 1](https://www.acmicpc.net/problem/2438)|:smile:(성공)|
