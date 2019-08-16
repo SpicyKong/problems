@@ -32,6 +32,7 @@
 |[Q_1157](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1157.py)|[단어 공부](https://www.acmicpc.net/problem/1157)|:smile:(성공)|
 |[Q_2851](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2851.py)|[슈퍼 마리오](https://www.acmicpc.net/problem/2851)|:smile:(성공)|
 |[Q_10172](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10172.py)|[개](https://www.acmicpc.net/problem/10172)|:smile:(성공)|
+|[Q_11718](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11718.py)|[그대로 출력하기](https://www.acmicpc.net/problem/11718)|:smile:(성공)|
 
 
 
