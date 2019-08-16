@@ -31,6 +31,7 @@
 |[Q_2557](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2557.py)|[Hello World](https://www.acmicpc.net/problem/2557)|:smile:(성공)|
 |[Q_1157](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1157.py)|[단어 공부](https://www.acmicpc.net/problem/1157)|:smile:(성공)|
 |[Q_2851](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2851.py)|[슈퍼 마리오](https://www.acmicpc.net/problem/2851)|:smile:(성공)|
+|[Q_10172](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10172.py)|[개](https://www.acmicpc.net/problem/10172)|:smile:(성공)|
 
 
 
