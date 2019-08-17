@@ -34,6 +34,7 @@
 |[Q_10172](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10172.py)|[개](https://www.acmicpc.net/problem/10172)|:smile:(성공)|
 |[Q_11718](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11718.py)|[그대로 출력하기](https://www.acmicpc.net/problem/11718)|:smile:(성공)|
 |[Q_1920](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1920.py)|[수 찾기](https://www.acmicpc.net/problem/1920)|:smile:(성공)|
+|[Q_2573](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2573.py)|[빙산](https://www.acmicpc.net/problem/2573)|:exclamation:(푸는중..)|
 
 
 
