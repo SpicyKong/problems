@@ -36,7 +36,7 @@
 |[Q_1920](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1920.py)|[수 찾기](https://www.acmicpc.net/problem/1920)|:smile:(성공)|
 |[Q_2573](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2573.py)|[빙산](https://www.acmicpc.net/problem/2573)|:exclamation:(푸는중..)|
 |[Q_4344](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4344.py)|[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|:smile:(성공)|
-
+|[Q_4949](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4949.py)|[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|:smile:(성공)|
 
 
 
