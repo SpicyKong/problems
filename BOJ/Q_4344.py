@@ -1,3 +1,4 @@
+# https://www.acmicpc.net/problem/4344 문제 제목 : 평균은 넘겠지 , 언어 : Python, 날짜 : 2019-08-20, 결과 : 성공
 
 #처음 생각했던 알고리즘 ----------------
 import sys
