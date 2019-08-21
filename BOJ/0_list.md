@@ -38,7 +38,7 @@
 |[Q_4344](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4344.py)|[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|:smile:(성공)|
 |[Q_4949](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4949.py)|[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|:smile:(성공)|
 |[Q_11721](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11721.py)|[열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721)|:smile:(성공)|
-
+|[Q_2042](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2042.py)|[구간 합 구하기](https://www.acmicpc.net/problem/2042)|:exclamation:(실패)|
 
 
 
