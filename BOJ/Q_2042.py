@@ -1,5 +1,7 @@
 # https://www.acmicpc.net/problem/2042 문제 제목 : 구간 합 구하기 , 언어 : Python, 날짜 : 2019-08-21, 결과 : 실패(트리 공부하기)
 
+# https://upcount.tistory.com/12 이분 블로그로 공부하자!
+
 import sys
 
 N, M, K = map(int,sys.stdin.readline().split())
