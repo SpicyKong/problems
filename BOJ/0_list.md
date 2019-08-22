@@ -39,6 +39,10 @@
 |[Q_4949](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4949.py)|[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|:smile:(성공)|
 |[Q_11721](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11721.py)|[열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721)|:smile:(성공)|
 |[Q_2042](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2042.py)|[구간 합 구하기](https://www.acmicpc.net/problem/2042)|:exclamation:(실패)|
+|[Q_15953](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_15953.py)|[상금 헌터](https://www.acmicpc.net/problem/15953)|:smile:(성공)|
+
+
+
 
 
 
