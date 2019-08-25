@@ -42,7 +42,7 @@
 |[Q_15953](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_15953.py)|[상금 헌터](https://www.acmicpc.net/problem/15953)|:smile:(성공)|
 |[Q_10718](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10718.py)|[We love kriii](https://www.acmicpc.net/problem/10718)|:smile:(성공)|
 |[Q_2875](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2875.py)|[대회 or 인턴](https://www.acmicpc.net/problem/2875)|:smile:(성공)|
-
+|[Q_1012](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1012.py)|[유기농 배추](https://www.acmicpc.net/problem/1012)|:exclamation:(실패)|
 
 
 
