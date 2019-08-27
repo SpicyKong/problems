@@ -12,9 +12,7 @@ for _ in range(int(sys.stdin.readline())):
         elif len(list_a) == 0 and text == ')':
             re = False
             break
-    #print(list_a)
     if len(list_a) > 0:
-        #print("len")
         re = False
     if re == True:
         print('YES')
