@@ -47,6 +47,8 @@
 |[Q_9012](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9012.py)|[괄호](https://www.acmicpc.net/problem/9012)|:smile:(성공)|
 |[Q_11365](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11365.py)|[!밀비 급일](https://www.acmicpc.net/problem/11365)|:smile:(성공)|
 |[Q_1244](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1244.py)|[스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)|:exclamation:(실패)|
+|[Q_2884](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2884.py)|[알람 시계](https://www.acmicpc.net/problem/2884)|:smile:(성공)|
+
 
 
 
