@@ -51,7 +51,7 @@
 |[Q_2108](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2108.py)|[통계학](https://www.acmicpc.net/problem/2108)|:smile:(성공)|
 |[Q_2309](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2309.py)|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|:smile:(성공)|
 |[Q_1546](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1546.py)|[평균](https://www.acmicpc.net/problem/1546)|:smile:(성공)|
-
+|[Q_1436](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1436.py)|[영화감독 숌](https://www.acmicpc.net/problem/1436)|:smile:(성공)|
 
 
 
