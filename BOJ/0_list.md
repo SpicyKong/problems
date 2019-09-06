@@ -53,7 +53,7 @@
 |[Q_1546](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1546.py)|[평균](https://www.acmicpc.net/problem/1546)|:smile:(성공)|
 |[Q_1436](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1436.py)|[영화감독 숌](https://www.acmicpc.net/problem/1436)|:smile:(성공)|
 |[Q_1904](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1904.py)|[01타일](https://www.acmicpc.net/problem/1904)|:exclamation:(실패)|
-
+|[Q_14499](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_14499.py)|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|:exclamation:(실패)|
 
 
 
