@@ -55,7 +55,7 @@
 |[Q_1904](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1904.py)|[01타일](https://www.acmicpc.net/problem/1904)|:exclamation:(실패)|
 |[Q_14499](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_14499.py)|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|:smile:(성공)|
 |[Q_14891](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_14891.py)|[톱니바퀴](https://www.acmicpc.net/problem/14891)|:smile:(성공)|
-
+|[Q_2941](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2941.py)|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|:smile:(성공)|
 
 
 
