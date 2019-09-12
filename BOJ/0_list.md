@@ -59,7 +59,7 @@
 |[Q_2292](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2292.py)|[벌집](https://www.acmicpc.net/problem/2292)|:smile:(성공)|
 |[Q_2606](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2606.py)|[바이러스](https://www.acmicpc.net/problem/2606)|:exclamation:(실패)|
 |[Q_11720](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11720.py)|[숫자의 합](https://www.acmicpc.net/problem/11720)|:smile:(성공)|
-
+|[Q_10171](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10171.py)|[고양이](https://www.acmicpc.net/problem/10171)|:smile:(성공)|
 
 
 
