@@ -1,7 +1,70 @@
 # 아직 푸는중인데 할게 많아서 미완성으로 올립니다..ㅠ
 # 2차원 리스트를 복사하니 자꾸만 얕은복사가되서 삽질했습니다..
+# https://www.acmicpc.net/problem/2573 문제 제목 : 빙산 , 언어 : Python, 날짜 : 2019-09-18, 결과 : 실패
+
+# ver 2. 요즘 뭔가 할게 많아서 문제가 손에 안잡힌다..
+import sys
+from collections import deque
+N, M = map(int, sys.stdin.readline().split())
+
+list_map = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
+
+count_year = 1
+list_queue = deque()
 
 
+dx = [1, -1, 0, 0]
+dy = [0, 0, 1, -1]
+
+
+list_visit = [[0]*M for _ in range(N)]
+finish = False
+count_year = 0
+while not finish:
+    count_bingsan = 0
+    for y in range(N):
+        for x in range(M):
+            if list_map[y][x] and list_visit[y][x] == 0:
+                list_queue.append([x, y])
+                while list_queue:
+                    tx, ty = list_queue.popleft()
+                    list_visit[ty][tx] += 5
+                    for i in range(4):
+                        ax = tx + dx[i]
+                        ay = ty + dy[i]
+                        if 0 <= ax < M and 0 <= ay < N:
+                            if list_map[ay][ax] and list_visit[ay][ax]==0:
+                                list_visit[ay][ax]=1
+                                list_queue.append([ax, ay])
+                            if list_map[ay][ax]:
+                                list_visit[ty][tx] -= 1
+                count_bingsan+=1
+    first = 0
+    for y in range(N):
+        for x in range(M):
+            if list_visit[y][x] > 0:
+                if not first:
+                    first = 1
+                    list_map[y][x]-=1
+                if list_map[y][x] - list_visit[y][x] + 2 < 0:
+                    list_map[y][x] = 0
+                else:
+                    list_map[y][x] -= list_visit[y][x] - 2
+                list_visit[y][x] = 0
+    count_year+=1
+    if count_bingsan > 1:
+        print(count_year)
+        finish = True
+    
+    #[print(a) for a in list_map]
+    #print("++++++++++++++++++++++++++++++")
+    #[print(a) for a in list_visit]
+    #print("========================================")
+    
+    
+    
+    
+"""  ver 1.
 import sys
 
 #a = list(map(int,sys.stdin.readline().split()))
@@ -61,3 +124,4 @@ while(True):
     
 print(num-1)
 
+"""
