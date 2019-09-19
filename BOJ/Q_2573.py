@@ -1,7 +1,8 @@
 # 아직 푸는중인데 할게 많아서 미완성으로 올립니다..ㅠ
 # 2차원 리스트를 복사하니 자꾸만 얕은복사가되서 삽질했습니다..
 # https://www.acmicpc.net/problem/2573 문제 제목 : 빙산 , 언어 : Python, 날짜 : 2019-09-18, 결과 : 실패
-
+# https://www.acmicpc.net/problem/2573 문제 제목 : 빙산 , 언어 : Python, 날짜 : 2019-09-19, 결과 : 실패
+# 내일 다시 시도..
 # ver 2. 요즘 뭔가 할게 많아서 문제가 손에 안잡힌다..
 import sys
 from collections import deque
