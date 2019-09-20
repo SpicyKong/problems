@@ -3,6 +3,64 @@
 # https://www.acmicpc.net/problem/2573 문제 제목 : 빙산 , 언어 : Python, 날짜 : 2019-09-18, 결과 : 실패
 # https://www.acmicpc.net/problem/2573 문제 제목 : 빙산 , 언어 : Python, 날짜 : 2019-09-19, 결과 : 실패
 # 내일 다시 시도..
+
+# https://www.acmicpc.net/problem/2573 문제 제목 : 빙산 , 언어 : Python, 날짜 : 2019-09-20, 결과 : 성공
+# 생각을 정리하고 다시한번 코드를 작성해 보았다. 이번에는 18%지점에서 시간초과가 뜨는걸 보고 pypy3로 제출을 했더니 맞았습니다가 되었다.
+# 언젠가 파이썬으로도 풀어보고 싶다.
+import sys
+from collections import deque
+N, M = map(int, sys.stdin.readline().split())
+list_map = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
+list_visit = [[0]*M for _ in range(N)]
+list_decrease = [[0]*M for _ in range(N)]
+list_queue = deque()
+dx = [1, -1, 0, 0]
+dy = [0, 0, 1, -1]
+end = False
+count_year = 0
+while not end:
+    count = 0
+    for y in range(N):
+        for x in range(M):
+            if list_map[y][x] and list_visit[y][x] == 0:
+                list_queue.append([x, y])
+                list_visit[y][x] = 1
+                while list_queue:
+                    tx, ty = list_queue.popleft()
+                    for i in range(4):
+                        ax = tx + dx[i]
+                        ay = ty + dy[i]
+                        if 0 <= ax < M and 0 <= ay < N:
+                            if list_map[ay][ax] > 0 and list_visit[ay][ax]==0:
+                                list_visit[ay][ax] = 1
+                                list_queue.append([ax, ay])
+                            if list_map[ay][ax] == 0:
+                                list_decrease[ty][tx] += 1
+                count+=1
+    for y1 in range(N):
+        for x1 in range(M):
+            if list_map[y1][x1]:
+                list_visit[y1][x1] = 0
+                if list_map[y1][x1] < list_decrease[y1][x1]:
+                    list_map[y1][x1] = 0
+                else:
+                    list_map[y1][x1] -= list_decrease[y1][x1]
+                list_decrease[y1][x1] = 0
+    if count >=2:
+        print(count_year)
+        end = True
+    if count==0:
+        print(0)
+        end = True
+    #print("====================================")
+    #[print(a) for a in list_decrease]
+    #print("--------------------------------------")
+    #[print(a) for a in list_visit]
+    count_year+=1
+    
+    
+    
+    
 # ver 2. 요즘 뭔가 할게 많아서 문제가 손에 안잡힌다..
 import sys
 from collections import deque
