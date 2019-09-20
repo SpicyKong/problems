@@ -33,7 +33,6 @@
 |[Q_10172](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10172.py)|[개](https://www.acmicpc.net/problem/10172)|:smile:(성공)|
 |[Q_11718](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11718.py)|[그대로 출력하기](https://www.acmicpc.net/problem/11718)|:smile:(성공)|
 |[Q_1920](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1920.py)|[수 찾기](https://www.acmicpc.net/problem/1920)|:smile:(성공)|
-|[Q_2573](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2573.py)|[빙산](https://www.acmicpc.net/problem/2573)|:exclamation:(푸는중..)|
 |[Q_4344](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4344.py)|[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|:smile:(성공)|
 |[Q_4949](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4949.py)|[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|:smile:(성공)|
 |[Q_11721](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11721.py)|[열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721)|:smile:(성공)|
@@ -62,7 +61,7 @@
 |[Q_1012](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1012.py)|[유기농 배추](https://www.acmicpc.net/problem/1012)|:smile:(성공)|
 |[Q_7576](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_7576.py)|[토마토](https://www.acmicpc.net/problem/7576)|:smile:(성공)|
 |[Q_2667](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2667.py)|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|:smile:(성공)|
-|[Q_2573](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2573.py)|[빙산](https://www.acmicpc.net/problem/2573)|:exclamation:(실패)|
+|[Q_2573](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2573.py)|[빙산](https://www.acmicpc.net/problem/2573)|:smile:(성공)|
 
 
 
