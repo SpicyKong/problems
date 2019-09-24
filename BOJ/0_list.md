@@ -64,7 +64,7 @@
 |[Q_2573](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2573.py)|[빙산](https://www.acmicpc.net/problem/2573)|:smile:(성공)|
 |[Q_1697](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1697.py)|[숨바꼭질](https://www.acmicpc.net/problem/1697)|:smile:(성공)|
 |[Q_11559](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11559.py)|[Puyo Puyo](https://www.acmicpc.net/problem/11559)|:exclamation:(실패)|
-
+|[Q_9205](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9205.py)|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|:exclamation:(실패)|
 
 
 
