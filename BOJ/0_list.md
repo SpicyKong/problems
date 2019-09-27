@@ -66,8 +66,7 @@
 |[Q_11559](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11559.py)|[Puyo Puyo](https://www.acmicpc.net/problem/11559)|:exclamation:(실패)|
 |[Q_9205](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9205.py)|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|:smile:(성공)|
 |[Q_1620](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1620.py)|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|:smile:(성공)|
-|[Q_1614](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1614.py)|[영식이의 손가락](https://www.acmicpc.net/problem/1614)|:exclamation:(실패)|
-
+|[Q_1614](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1614.py)|[영식이의 손가락](https://www.acmicpc.net/problem/1614)|:smile:(성공)|
 
 
 
