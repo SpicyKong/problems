@@ -71,6 +71,8 @@
 |[Q_5397](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5397.py)|[키로거](https://www.acmicpc.net/problem/5397)|:smile:(성공)|
 |[Q_1964](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1964.py)|[오각형, 오각형, 오각형…](https://www.acmicpc.net/problem/1964)|:smile:(성공)|
 |[Q_2042](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2042.py)|[구간 합 구하기](https://www.acmicpc.net/problem/2042)|:smile:(성공)|
+|[Q_11505](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11505.py)|[구간 곱 구하기](https://www.acmicpc.net/problem/11505)|:exclamation:(실패)|
+
 
 
 
