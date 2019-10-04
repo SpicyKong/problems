@@ -1,5 +1,33 @@
-# https://www.acmicpc.net/problem/1463 문제 제목 : 1로 만들기 , 언어 : Python, 날짜 : 20190803, 결과 : 실패
+# https://www.acmicpc.net/problem/1463 문제 제목 : 1로 만들기 , 언어 : Python, 날짜 : 2019-08-03, 결과 : 실패
+# https://www.acmicpc.net/problem/1463 문제 제목 : 1로 만들기 , 언어 : Python, 날짜 : 2019-10-04, 결과 : 성공
+#-----------두번째 시도 코드(맞은 코드)------------#
 
+X = int(input())
+list_a = [0]*(X+1)
+#print(len(list_a))
+count = 1
+while True:
+    if count+1 <= X:
+        if not list_a[count+1]:
+            list_a[count+1] = list_a[count]+1
+        elif list_a[count]+1 < list_a[count+1]:
+            list_a[count+1] = list_a[count]+1
+    if count*2 <= X:
+        if not list_a[count*2]:
+            list_a[count*2] = list_a[count]+1
+        elif list_a[count]+1 < list_a[count*2]:
+            list_a[count*2] = list_a[count]+1
+    if count*3 <= X:
+        if not list_a[count*3]:
+            list_a[count*3] = list_a[count]+1
+        elif list_a[count]+1 < list_a[count*3]:
+            list_a[count*3] = list_a[count]+1
+    if count == X:
+        break
+    count+=1
+print(list_a[X])
+
+#-----------첫시도 코드(틀린 코드)------------#
 n=int(input())
 list_dp = [0 for _ in range(n+1)]
 if len(list_dp)>2:
