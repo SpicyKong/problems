@@ -73,6 +73,11 @@
 |[Q_2042](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2042.py)|[구간 합 구하기](https://www.acmicpc.net/problem/2042)|:smile:(성공)|
 |[Q_11505](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11505.py)|[구간 곱 구하기](https://www.acmicpc.net/problem/11505)|:exclamation:(실패)|
 |[Q_1929](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1929.py)|[소수 구하기](https://www.acmicpc.net/problem/1929)|:smile:(성공)|
+|[Q_1463](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1463.py)|[1로 만들기](https://www.acmicpc.net/problem/1463)|:smile:(성공)|
+
+
+
+
 
 
 
