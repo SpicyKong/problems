@@ -75,7 +75,7 @@
 |[Q_1463](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1463.py)|[1로 만들기](https://www.acmicpc.net/problem/1463)|:smile:(성공)|
 |[Q_7562](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_7562.py)|[나이트의 이동](https://www.acmicpc.net/problem/7562)|:smile:(성공)|
 |[Q_15803](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_15803.py)|[PLAYERJINAH’S BOTTLEGROUNDS](https://www.acmicpc.net/problem/15803)|:smile:(성공)|
-
+|[Q_5014](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5014.py)|[스타트링크](https://www.acmicpc.net/problem/5014)|:smile:(성공)|
 
 
 
