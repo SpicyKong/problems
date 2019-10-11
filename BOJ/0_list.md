@@ -80,7 +80,7 @@
 |[Q_2217](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2217.py)|[로프](https://www.acmicpc.net/problem/2217)|:smile:(성공)|
 |[Q_11047](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11047.py)|[동전 0](https://www.acmicpc.net/problem/11047)|:smile:(성공)|
 |[Q_11053](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11053.py)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|:smile:(성공)|
-
+|[Q_9461](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9461.py)|[파도반 수열](https://www.acmicpc.net/problem/9461)|:smile:(성공)|
 
 
 
