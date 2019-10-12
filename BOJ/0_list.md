@@ -82,6 +82,7 @@
 |[Q_9461](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9461.py)|[파도반 수열](https://www.acmicpc.net/problem/9461)|:smile:(성공)|
 |[Q_11726](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11726.py)|[2×n 타일링](https://www.acm
 icpc.net/problem/11726)|:smile:(성공)|
+|[Q_1003](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1003.py)|[피보나치 함수](https://www.acmicpc.net/problem/1003)|:smile:(성공)|
 
 
 
