@@ -84,7 +84,7 @@
 icpc.net/problem/11726)|:smile:(성공)|
 |[Q_1003](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1003.py)|[피보나치 함수](https://www.acmicpc.net/problem/1003)|:smile:(성공)|
 |[Q_1660](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1660.py)|[캡틴 이다솜](https://www.acmicpc.net/problem/1660)|:exclamation:(실패)|
-
+|[Q_2748](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2748.py)|[피보나치 수 2](https://www.acmicpc.net/problem/2748)|:smile:(성공)|
 
 
 
