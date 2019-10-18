@@ -1,0 +1,4 @@
+# https://www.acmicpc.net/problem/2442 문제 제목 : 별 찍기 - 5 , 언어 : Python, 날짜 : 2019-10-18, 결과 : 성공
+#내일 면접이있어서 오늘은..
+N = int(input())
+[print(' '*(N-i)+'*'*(2*i-1)) for i in range(1,N+1)]
