@@ -80,8 +80,7 @@
 |[Q_11047](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11047.py)|[동전 0](https://www.acmicpc.net/problem/11047)|:smile:(성공)|
 |[Q_11053](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11053.py)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|:smile:(성공)|
 |[Q_9461](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9461.py)|[파도반 수열](https://www.acmicpc.net/problem/9461)|:smile:(성공)|
-|[Q_11726](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11726.py)|[2×n 타일링](https://www.acm
-icpc.net/problem/11726)|:smile:(성공)|
+|[Q_11726](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11726.py)|[2×n 타일링](https://www.acmicpc.net/problem/11726)|:smile:(성공)|
 |[Q_1003](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1003.py)|[피보나치 함수](https://www.acmicpc.net/problem/1003)|:smile:(성공)|
 |[Q_1660](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1660.py)|[캡틴 이다솜](https://www.acmicpc.net/problem/1660)|:exclamation:(실패)|
 |[Q_2748](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2748.py)|[피보나치 수 2](https://www.acmicpc.net/problem/2748)|:smile:(성공)|
