@@ -90,7 +90,7 @@ icpc.net/problem/11726)|:smile:(성공)|
 |[Q_10872](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10872.py)|[팩토리얼](https://www.acmicpc.net/problem/10872)|:smile:(성공)|
 |[Q_2442](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2442.py)|[별 찍기 - 5](https://www.acmicpc.net/problem/2442)|:smile:(성공)|
 |[Q_1297](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1297.py)|[TV 크기](https://www.acmicpc.net/problem/1297)|:smile:(성공)|
-
+|[Q_1173](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1173.py)|[운동](https://www.acmicpc.net/problem/1173)|:smile:(성공)|
 
 
 
