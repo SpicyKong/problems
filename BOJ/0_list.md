@@ -93,7 +93,7 @@
 |[Q_3190](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3190.py)|[뱀](https://www.acmicpc.net/problem/3190)|:smile:(성공)|
 |[Q_7569](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_7569.py)|[토마토](https://www.acmicpc.net/problem/7569)|:smile:(성공)|
 |[Q_1987](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1987.py)|[알파벳](https://www.acmicpc.net/problem/1987)|:exclamation:(실패)|
-
+|[Q_9095](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9095.py)|[1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|:smile:(성공)|
 
 
 
