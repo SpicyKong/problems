@@ -95,7 +95,7 @@
 |[Q_1987](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1987.py)|[알파벳](https://www.acmicpc.net/problem/1987)|:exclamation:(실패)|
 |[Q_9095](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9095.py)|[1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|:smile:(성공)|
 |[Q_2581](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2581.py)|[소수](https://www.acmicpc.net/problem/2581)|:smile:(성공)|
-
+|[Q_11004](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11004.py)|[K번째 수](https://www.acmicpc.net/problem/11004)|:exclamation:(실패)|
 
 
 
