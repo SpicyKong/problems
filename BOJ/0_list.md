@@ -98,7 +98,7 @@
 |[Q_1032](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1032.py)|[명령 프롬프트](https://www.acmicpc.net/problem/1032)|:smile:(성공)|
 |[Q_11004](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11004.py)|[K번째 수](https://www.acmicpc.net/problem/11004)|:smile:(성공)|
 |[Q_11399](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11399.py)|[ATM](https://www.acmicpc.net/problem/11399)|:smile:(성공)|
-
+|[Q_10991](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10991.py)|[별 찍기 - 16](https://www.acmicpc.net/problem/10991)|:smile:(성공)|
 
 
 
