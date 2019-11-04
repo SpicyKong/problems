@@ -100,6 +100,7 @@
 |[Q_11399](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11399.py)|[ATM](https://www.acmicpc.net/problem/11399)|:smile:(성공)|
 |[Q_10991](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10991.py)|[별 찍기 - 16](https://www.acmicpc.net/problem/10991)|:smile:(성공)|
 |[Q_1874](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1874.py)|[스택 수열](https://www.acmicpc.net/problem/1874)|:smile:(성공)|
+|[Q_2164](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2164.py)|[카드2](https://www.acmicpc.net/problem/2164)|:smile:(성공)|
 
 
 
