@@ -101,6 +101,10 @@
 |[Q_10991](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10991.py)|[별 찍기 - 16](https://www.acmicpc.net/problem/10991)|:smile:(성공)|
 |[Q_1874](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1874.py)|[스택 수열](https://www.acmicpc.net/problem/1874)|:smile:(성공)|
 |[Q_2164](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2164.py)|[카드2](https://www.acmicpc.net/problem/2164)|:smile:(성공)|
+|[Q_3053](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3053.py)|[택시 기하학](https://www.acmicpc.net/problem/3053)|:smile:(성공)|
+
+
+
 
 
 
