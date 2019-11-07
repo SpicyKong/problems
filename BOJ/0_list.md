@@ -104,6 +104,8 @@
 |[Q_3053](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3053.py)|[택시 기하학](https://www.acmicpc.net/problem/3053)|:smile:(성공)|
 |[Q_1834](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1834.py)|[나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)|:smile:(성공)|
 |[Q_1002](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1002.py)|[터렛](https://www.acmicpc.net/problem/1002)|:smile:(성공)|
+|[Q_1260](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1260.py)|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|:exclamation:(실패)|
+
 
 
 
