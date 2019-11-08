@@ -1,4 +1,5 @@
 # https://www.acmicpc.net/problem/1260 문제 제목 : DFS와 BFS , 언어 : Python, 날짜 : 2019-11-07, 결과 : 실패
+# https://www.acmicpc.net/problem/1260 문제 제목 : DFS와 BFS , 언어 : Python, 날짜 : 2019-11-08, 결과 : 성공
 
 import sys
 from collections import deque
@@ -7,11 +8,32 @@ sys.setrecursionlimit(10**6)
 
 N, M, V = map(int, input().split())
 
-list_graph = [set([]) for _ in range(N+1)] # 인접 리스트를 구현합니다.
+def quick_sort(arr, len_arr):
+    if len_arr <= 0:
+        return arr
+    pivot = arr[len_arr//2]
+    lesser, equal, larger = [], [], []
+    count_lesser, count_larger = 0, 0
+    for num in arr:
+        if num > pivot:
+            larger.append(num)
+            count_larger+=1
+        elif num < pivot:
+            lesser.append(num)
+            count_lesser+=1
+        else:
+            equal.append(num)
+    return quick_sort(lesser, count_lesser) + equal + quick_sort(larger, count_larger)
+
+list_graph = [[] for _ in range(N+1)] # 인접 리스트를 구현합니다.
 for _ in range(M):
     i, j = map(int, input().split())
-    list_graph[i].add(j)
-    list_graph[j].add(i)
+    list_graph[i].append(j)
+    list_graph[j].append(i)
+for i in range(1,N+1):
+    list_graph[i] = quick_sort(list_graph[i], len(list_graph[i]))
+
+
 
 
 list_print_d = [V] # 탐색한 순서를 저장하는 리스트 입니다.
@@ -45,4 +67,3 @@ dfs(V)
 bfs(V)
 print(*list_print_d)
 print(*list_print_b)
-
