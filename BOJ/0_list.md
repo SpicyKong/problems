@@ -1,5 +1,5 @@
 # 풀어야할 번호
-1009 1110 1629 1660 1904 2580 2581 2606 2751 6986 10773 10800 10827 10944 11505 11559 11652
+1009 1110 1629 1660 1904 2580 2581 2751 6986 10773 10800 10827 10944 11505 11559 11652
 # 풀었던 문제
 | 문제 번호 | 문제이름 | 결과 |
 | :--- | :---: | ---: |
@@ -52,7 +52,6 @@
 |[Q_14891](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_14891.py)|[톱니바퀴](https://www.acmicpc.net/problem/14891)|:smile:(성공)|
 |[Q_2941](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2941.py)|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|:smile:(성공)|
 |[Q_2292](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2292.py)|[벌집](https://www.acmicpc.net/problem/2292)|:smile:(성공)|
-|[Q_2606](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2606.py)|[바이러스](https://www.acmicpc.net/problem/2606)|:exclamation:(실패)|
 |[Q_11720](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11720.py)|[숫자의 합](https://www.acmicpc.net/problem/11720)|:smile:(성공)|
 |[Q_10171](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10171.py)|[고양이](https://www.acmicpc.net/problem/10171)|:smile:(성공)|
 |[Q_2178](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2178.py)|[미로 탐색](https://www.acmicpc.net/problem/2178)|:smile:(성공)|
@@ -105,7 +104,7 @@
 |[Q_1834](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1834.py)|[나머지와 몫이 같은 수](https://www.acmicpc.net/problem/1834)|:smile:(성공)|
 |[Q_1002](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1002.py)|[터렛](https://www.acmicpc.net/problem/1002)|:smile:(성공)|
 |[Q_1260](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1260.py)|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|:smile:(성공)|
-
+|[Q_2606](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2606.py)|[바이러스](https://www.acmicpc.net/problem/2606)|:smile:(성공)|
 
 
 
