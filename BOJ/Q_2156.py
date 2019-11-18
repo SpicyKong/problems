@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/2156 문제 제목 : 포도주 시식 , 언어 : Python, 날짜 : 2019-11-18, 결과 : 성공
-
+# 내가 풀고 있는 DP문제들을 계속 반복문으로 구현하는데
+# 내일 한번 재귀로도 풀어보아야 겠다.
 import sys
 N = int(sys.stdin.readline())
 list_input =[0] + [int(sys.stdin.readline()) for _ in range(N)]
