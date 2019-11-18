@@ -111,7 +111,7 @@
 |[Q_10845](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10845.py)|[큐](https://www.acmicpc.net/problem/10845)|:smile:(성공)|
 |[Q_2579](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2579.py)|[계단 오르기](https://www.acmicpc.net/problem/2579)|:smile:(성공)|
 |[Q_1912](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1912.py)|[연속합](https://www.acmicpc.net/problem/1912)|:smile:(성공)|
-
+|[Q_2156](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2156.py)|[포도주 시식](https://www.acmicpc.net/problem/2156)|:smile:(성공)|
 
 
 
