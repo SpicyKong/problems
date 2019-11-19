@@ -1,0 +1,12 @@
+# https://www.acmicpc.net/problem/18017 문제 제목 : 총알의 속도 , 언어 : Python, 날짜 : 2019-11-19, 결과 : 실패
+# 문제를 보고 넌센스문제라는것을 생각하며 읽다보니 상대성이론에 관한 문제같은데 못풀겠다.
+
+
+from decimal import Decimal
+
+a, b = input().split()
+a = Decimal(a)
+b = Decimal(b)
+c = 299792458^2
+print(round((a+b)/(1+(a*b)/c), 9))
+#print(round((c * a + c * b)/(c + a*b),9) )
