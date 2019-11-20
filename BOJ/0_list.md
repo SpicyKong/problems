@@ -113,7 +113,7 @@
 |[Q_1912](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1912.py)|[연속합](https://www.acmicpc.net/problem/1912)|:smile:(성공)|
 |[Q_2156](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2156.py)|[포도주 시식](https://www.acmicpc.net/problem/2156)|:smile:(성공)|
 |[Q_18017](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_18017.py)|[총알의 속도](https://www.acmicpc.net/problem/18017)|:exclamation:(실패)|
-
+|[Q_1475](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1475.py)|[방 번호](https://www.acmicpc.net/problem/1475)|:smile:(성공)|
 
 
 
