@@ -116,7 +116,7 @@
 |[Q_1475](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1475.py)|[방 번호](https://www.acmicpc.net/problem/1475)|:smile:(성공)|
 |[Q_2407](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2407.py)|[조합](https://www.acmicpc.net/problem/2407)|:smile:(성공)|
 |[Q_2965](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2965.py)|[캥거루 세마리](https://www.acmicpc.net/problem/2965)|:smile:(성공)|
-
+|[Q_1138](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1138.py)|[한 줄로 서기](https://www.acmicpc.net/problem/1138)|:smile:(성공)|
 
 
 
