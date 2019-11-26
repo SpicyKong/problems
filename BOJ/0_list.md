@@ -120,7 +120,7 @@
 |[Q_8979](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_8979.py)|[올림픽](https://www.acmicpc.net/problem/8979)|:exclamation:(실패)|
 |[Q_3101](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3101.py)|[토끼의 이동](https://www.acmicpc.net/problem/3101)|:exclamation:(실패)|
 |[Q_1406](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1406.py)|[에디터](https://www.acmicpc.net/problem/1406)|:smile:(성공)|
-
+|[Q_1924](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1924.py)|[2007년](https://www.acmicpc.net/problem/1924)|:smile:(성공)|
 
 
 
