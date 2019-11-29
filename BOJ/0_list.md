@@ -123,7 +123,7 @@
 |[Q_1924](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1924.py)|[2007년](https://www.acmicpc.net/problem/1924)|:smile:(성공)|
 |[Q_1105](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1105.py)|[팔](https://www.acmicpc.net/problem/1105)|:smile:(성공)|
 |[Q_1149](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1149.py)|[RGB거리](https://www.acmicpc.net/problem/1149)|:smile:(성공)|
-
+|[Q_2342](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2342.py)|[Dance Dance Revolution](https://www.acmicpc.net/problem/2342)|:smile:(성공)|
 
 
 
