@@ -124,7 +124,7 @@
 |[Q_1105](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1105.py)|[팔](https://www.acmicpc.net/problem/1105)|:smile:(성공)|
 |[Q_1149](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1149.py)|[RGB거리](https://www.acmicpc.net/problem/1149)|:smile:(성공)|
 |[Q_1110](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1110.py)|[더하기 사이클](https://www.acmicpc.net/problem/1110)|:smile:(성공)|
-
+|[Q_1932](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1932.py)|[정수 삼각형](https://www.acmicpc.net/problem/1932)|:smile:(성공)|
 
 
 
