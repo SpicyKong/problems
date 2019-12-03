@@ -126,7 +126,7 @@
 |[Q_1110](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1110.py)|[더하기 사이클](https://www.acmicpc.net/problem/1110)|:smile:(성공)|
 |[Q_1932](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1932.py)|[정수 삼각형](https://www.acmicpc.net/problem/1932)|:smile:(성공)|
 |[Q_2525](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2525.py)|[오븐 시계](https://www.acmicpc.net/problem/2525)|:smile:(성공)|
-|[Q_2622c](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2622.py)|[삼각형만들기](https://www.acmicpc.net/problem/2622)|:exclamation:(실패)|
+
 
 
 
