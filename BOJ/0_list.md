@@ -128,7 +128,7 @@
 |[Q_2525](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2525.py)|[오븐 시계](https://www.acmicpc.net/problem/2525)|:smile:(성공)|
 |[Q_11052](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11052.py)|[카드 구매하기](https://www.acmicpc.net/problem/11052)|:smile:(성공)|
 |[Q_1107](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1107.py)|[리모컨](https://www.acmicpc.net/problem/1107)|:exclamation:(실패)|
-
+|[Q_2293](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2293.py)|[동전 1](https://www.acmicpc.net/problem/2293)|:exclamation:(실패)|
 
 
 
