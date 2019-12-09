@@ -130,7 +130,7 @@
 |[Q_2293](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2293.py)|[동전 1](https://www.acmicpc.net/problem/2293)|:smile:(성공)|
 |[Q_1107](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1107.py)|[리모컨](https://www.acmicpc.net/problem/1107)|:smile:(성공)|
 |[Q_2037](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2037.py)|[문자메시지](https://www.acmicpc.net/problem/2037)|:smile:(성공)|
-
+|[Q_1764](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1764.py)|[듣보잡](https://www.acmicpc.net/problem/1764)|:smile:(성공)|
 
 
 
