@@ -133,7 +133,7 @@
 |[Q_1764](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1764.py)|[듣보잡](https://www.acmicpc.net/problem/1764)|:smile:(성공)|
 |[Q_11727](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11727.py)|[2×n 타일링 2](https://www.ac
 micpc.net/problem/11727)|:smile:(성공)|
-
+|[Q_1010](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1010.py)|[다리 놓기](https://www.acmicpc.net/problem/1010)|:smile:(성공)|
 
 
 
