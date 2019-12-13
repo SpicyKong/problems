@@ -134,7 +134,7 @@
 |[Q_11727](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11727.py)|[2×n 타일링 2](https://www.acmicpc.net/problem/11727)|:smile:(성공)|
 |[Q_1010](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1010.py)|[다리 놓기](https://www.acmicpc.net/problem/1010)|:smile:(성공)|
 |[Q_11048](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11048.py)|[이동하기](https://www.acmicpc.net/problem/11048)|:smile:(성공)|
-
+|[Q_5567](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5567.py)|[결혼식](https://www.acmicpc.net/problem/5567)|:smile:(성공)|
 
 
 
