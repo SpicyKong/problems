@@ -135,6 +135,9 @@
 |[Q_1010](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1010.py)|[다리 놓기](https://www.acmicpc.net/problem/1010)|:smile:(성공)|
 |[Q_11048](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11048.py)|[이동하기](https://www.acmicpc.net/problem/11048)|:smile:(성공)|
 |[Q_5567](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5567.py)|[결혼식](https://www.acmicpc.net/problem/5567)|:smile:(성공)|
+|[Q_2096](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2096.py)|[내려가기](https://www.acmicpc.net/problem/2096)|:exclamation:(실패)|
+
+
 
 
 
