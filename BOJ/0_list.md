@@ -138,8 +138,7 @@
 |[Q_2096](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2096.py)|[내려가기](https://www.acmicpc.net/problem/2096)|:smile:(성공)|
 |[Q_1915](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1915.py)|[가장 큰 정사각형](https://www.acmicpc.net/problem/1915)|:smile:(성공)|
 |[Q_10844](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10844.py)|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|:smile:(성공)|
-|[Q_10250](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10250.py)|[ACM
-호텔](https://www.acmicpc.net/problem/10250)|:exclamation:(실패)|
+|[Q_10250](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10250.py)|[ACM 호텔](https://www.acmicpc.net/problem/10250)|:smile:(성공)|
 
 
 
