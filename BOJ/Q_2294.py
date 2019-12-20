@@ -8,14 +8,15 @@ count_index = 0
 for i in range(list_a[0], k + 1):
     if i == list_a[count_index]:
         list_dp[i] = 1
-        if n > count_index:
+        if n > count_index+1:
             count_index += 1
     else:
-        try:
-             list_dp[i] = min([list_dp[i - j] for j in list_a if i > j and not list_dp[i - j] == 0]) + 1
-
-        except:
-            pass
+        min_list = []
+        for j in list_a:
+            if i-j>0 and list_dp[i - j]:
+                min_list.append(list_dp[i - j])
+        if min_list:
+            list_dp[i] = 1 + min(min_list)
 
 if list_dp[-1]:
     print(list_dp[-1])
