@@ -141,7 +141,7 @@
 |[Q_10250](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10250.py)|[ACM 호텔](https://www.acmicpc.net/problem/10250)|:smile:(성공)|
 |[Q_2798](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2798.py)|[블랙잭](https://www.acmicpc.net/problem/2798)|:smile:(성공)|
 |[Q_2294](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2294.py)|[동전 2](https://www.acmicpc.net/problem/2294)|:smile:(성공)|
-
+|[Q_11060](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11060.py)|[점프 점프](https://www.acmicpc.net/problem/11060)|:smile:(성공)|
 
 
 
