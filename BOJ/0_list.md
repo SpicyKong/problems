@@ -81,7 +81,6 @@
 |[Q_9461](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9461.py)|[파도반 수열](https://www.acmicpc.net/problem/9461)|:smile:(성공)|
 |[Q_11726](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11726.py)|[2×n 타일링](https://www.acmicpc.net/problem/11726)|:smile:(성공)|
 |[Q_1003](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1003.py)|[피보나치 함수](https://www.acmicpc.net/problem/1003)|:smile:(성공)|
-|[Q_1660](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1660.py)|[캡틴 이다솜](https://www.acmicpc.net/problem/1660)|:exclamation:(실패)|
 |[Q_2748](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2748.py)|[피보나치 수 2](https://www.acmicpc.net/problem/2748)|:smile:(성공)|
 |[Q_1267](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1267.py)|[핸드폰 요금](https://www.acmicpc.net/problem/1267)|:smile:(성공)|
 |[Q_2355](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2355.py)|[시그마](https://www.acmicpc.net/problem/2355)|:smile:(성공)|
