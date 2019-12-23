@@ -142,7 +142,7 @@
 |[Q_2294](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2294.py)|[동전 2](https://www.acmicpc.net/problem/2294)|:smile:(성공)|
 |[Q_11060](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11060.py)|[점프 점프](https://www.acmicpc.net/problem/11060)|:smile:(성공)|
 |[Q_1660](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1660.py)|[캡틴 이다솜](https://www.acmicpc.net/problem/1660)|:smile:(성공)|
-
+|[Q_1890](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1890.py)|[점프](https://www.acmicpc.net/problem/1890)|:smile:(성공)|
 
 
 
