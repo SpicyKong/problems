@@ -145,6 +145,8 @@
 |[Q_1890](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1890.py)|[점프](https://www.acmicpc.net/problem/1890)|:smile:(성공)|
 |[Q_18229](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_18229.py)|[내가 살게, 아냐 내가 살게](https://www.acmicpc.net/problem/18229)|:smile:(성공)|
 |[Q_2169](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2169.py)|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|:exclamation:(실패)|
+|[Q_2812](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2812.py)|[크게 만들기](https://www.acmicpc.net/problem/2812)|:smile:(성공)|
+
 
 
 
