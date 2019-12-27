@@ -146,7 +146,7 @@
 |[Q_18229](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_18229.py)|[내가 살게, 아냐 내가 살게](https://www.acmicpc.net/problem/18229)|:smile:(성공)|
 |[Q_2169](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2169.py)|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|:exclamation:(실패)|
 |[Q_2812](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2812.py)|[크게 만들기](https://www.acmicpc.net/problem/2812)|:smile:(성공)|
-
+|[Q_1041](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1041.py)|[주사위](https://www.acmicpc.net/problem/1041)|:exclamation:(실패)|
 
 
 
