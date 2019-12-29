@@ -148,6 +148,9 @@
 |[Q_2812](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2812.py)|[크게 만들기](https://www.acmicpc.net/problem/2812)|:smile:(성공)|
 |[Q_1041](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1041.py)|[주사위](https://www.acmicpc.net/problem/1041)|:exclamation:(실패)|
 |[Q_9184](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9184.py)|[신나는 함수 실행](https://www.acmicpc.net/problem/9184)|:smile:(성공)|
+|[Q_1837](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1837.py)|[암호제작](https://www.acmicpc.net/problem/1837)|:smile:(성공)|
+
+
 
 
 
