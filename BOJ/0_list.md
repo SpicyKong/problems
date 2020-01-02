@@ -152,7 +152,7 @@
 |[Q_9020](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9020.py)|[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|:smile:(성공)|
 |[Q_4948](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4948.py)|[베르트랑 공준](https://www.acmicpc.net/problem/4948)|:smile:(성공)|
 |[Q_2775](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2775.py)|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|:smile:(성공)|
-|[Q_18248](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_18248.py)|[제야의 종](https://www.acmicpc.net/problem/18248)|:exclamation:(실패)|
+|[Q_18248](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_18248.py)|[제야의 종](https://www.acmicpc.net/problem/18248)|:smile:(성공)|
 
 
 
