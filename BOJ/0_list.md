@@ -155,6 +155,12 @@
 |[Q_18248](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_18248.py)|[제야의 종](https://www.acmicpc.net/problem/18248)|:smile:(성공)|
 |[Q_2033](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2033.py)|[반올림](https://www.acmicpc.net/problem/2033)|:smile:(성공)|
 |[Q_1011](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1011.py)|[Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011)|:smile:(성공)|
+|[Q_1350](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1350.py)|[진짜 공간](https://www.acmicpc.net/problem/1350)|:smile:(성공)|
+
+
+
+
+
 
 
 
