@@ -158,6 +158,11 @@
 |[Q_1350](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1350.py)|[진짜 공간](https://www.acmicpc.net/problem/1350)|:smile:(성공)|
 |[Q_1331](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1331.py)|[나이트 투어](https://www.acmicpc.net/problem/1331)|:smile:(성공)|
 |[Q_11051](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11051.py)|[이항 계수 2](https://www.acmicpc.net/problem/11051)|:smile:(성공)|
+|[Q_1914](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1914.py)|[하노이 탑](https://www.acmicpc.net/problem/1914)|:smile:(성공)|
+
+
+
+
 
 
 
