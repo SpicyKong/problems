@@ -161,7 +161,7 @@
 |[Q_1914](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1914.py)|[하노이 탑](https://www.acmicpc.net/problem/1914)|:smile:(성공)|
 |[Q_2504](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2504.py)|[괄호의 값](https://www.acmicpc.net/problem/2504)|:smile:(성공)|
 |[Q_9019](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9019.py)|[DSLR](https://www.acmicpc.net/problem/9019)|:smile:(성공)|
-
+|[Q_1456](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1456.py)|[거의 소수](https://www.acmicpc.net/problem/1456)|:smile:(성공)|
 
 
 
