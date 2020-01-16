@@ -1,6 +1,6 @@
 # 풀어야할 번호
 1009 1016 1041 1629 1904 2580 2622 2751 3101 6986 10800 10827 10944 11401 11505 11559 11652 17836 18017
-# 풀었던 문제 (제가 풀었던 순서대로 나열되어 있습니다.)
+# 풀었던 문제 (제가 풀어본 순서대로 나열되어 있습니다.)
 | 문제 번호 | 문제이름 | 결과 |
 | :--- | :---: | ---: |
 |[Q_10804](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10804.py) (클릭하시면 소스코드로 이동)<!-- 2019/07/29(월) 시작 -->|[카드 역배치](https://www.acmicpc.net/problem/10804)(클릭하시면 문제로 이동)| :smile:(성공) |
@@ -164,7 +164,7 @@
 |[Q_1456](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1456.py)|[거의 소수](https://www.acmicpc.net/problem/1456)|:smile:(성공)|
 |[Q_3055](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3055.py)|[탈출](https://www.acmicpc.net/problem/3055)|:smile:(성공)|
 |[Q_17143](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_17143.py)|[낚시왕](https://www.acmicpc.net/problem/17143)|:smile:(성공)|
-
+|[Q_4781](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4781.py)|[사탕 가게](https://www.acmicpc.net/problem/4781)|:exclamation:(실패)|
 
 
 
