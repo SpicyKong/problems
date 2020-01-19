@@ -1,0 +1,117 @@
+# https://www.acmicpc.net/problem/12100 문제 제목 : 2048 (Easy) , 언어 : Python, 날짜 : 2020-01-19, 결과 : 성공
+# 왜 요즘 자꾸 이런문제만 푸는 건지..
+# 필기하면서 풀면 수월할거같아 보이는데 머리로만 짜니깐 좀 오래 걸린것 같다.
+# 공부해야겠다.
+
+import sys
+import copy
+from collections import deque
+
+result = 0
+def move(n, list_map,direction): # 이 함수는 (배열의 크기, 배열, 방향) 을 인자로 받아 해당하는 방향의 동작을 취한 배열값을 반환하는 함수이다.
+    global result
+    list_map_copy = copy.deepcopy(list_map)
+    if direction == 0: # <<<
+        for y in range(n):
+            save_num = [list_map_copy[y][0],0] #value, index
+            for x in range(1,n):
+                if list_map_copy[y][x]:
+                    imsi_num = list_map_copy[y][x]
+                    list_map_copy[y][x] = 0
+                    if list_map_copy[y][save_num[1]] == 0:
+                        list_map_copy[y][save_num[1]] = imsi_num
+                        save_num[1] -= 1
+                    elif list_map_copy[y][save_num[1]] == imsi_num:
+                        list_map_copy[y][save_num[1]] *= 2
+                        if list_map_copy[y][save_num[1]] > result:
+                            result = list_map_copy[y][save_num[1]]
+                    else:
+                        list_map_copy[y][save_num[1]+1] = imsi_num
+                    save_num = [list_map_copy[y][save_num[1]+1],save_num[1]+1]
+    elif direction == 1: # >>>
+        for y in range(n):
+            save_num = [list_map_copy[y][n-1],n-1] #value, index
+            for x in range(n-2,-1,-1):
+                if list_map_copy[y][x]:
+                    imsi_num = list_map_copy[y][x]
+                    list_map_copy[y][x] = 0
+                    if list_map_copy[y][save_num[1]] == 0:
+                        list_map_copy[y][save_num[1]] = imsi_num
+                        save_num[1] += 1
+                    elif list_map_copy[y][save_num[1]] == imsi_num:
+                        list_map_copy[y][save_num[1]] *= 2
+                        if list_map_copy[y][save_num[1]] > result:
+                            result = list_map_copy[y][save_num[1]]
+                    else:
+                        list_map_copy[y][save_num[1]-1] = imsi_num
+                    save_num = [list_map_copy[y][save_num[1]-1],save_num[1]-1]
+    elif direction == 2: # /\/\/\
+        for x in range(n):
+            save_num = [list_map_copy[0][x],0] #value, index
+            for y in range(1,n):
+                if list_map_copy[y][x]:
+                    
+                    imsi_num = list_map_copy[y][x]
+                    list_map_copy[y][x] = 0
+                    if list_map_copy[save_num[1]][x] == 0:
+                        list_map_copy[save_num[1]][x] = imsi_num
+                        save_num[1] -= 1
+                    elif list_map_copy[save_num[1]][x] == imsi_num:
+                        list_map_copy[save_num[1]][x] *= 2
+                        if list_map_copy[save_num[1]][x] > result:
+                            result = list_map_copy[save_num[1]][x]
+                    else:
+                        list_map_copy[save_num[1]+1][x] = imsi_num
+                    save_num = [list_map_copy[save_num[1]+1][x],save_num[1]+1]
+    else: # \/\/\/
+        for x in range(n):
+            save_num = [list_map_copy[n-1][x],n-1] #value, index
+            for y in range(n-2,-1,-1):
+                if list_map_copy[y][x]:
+                    imsi_num = list_map_copy[y][x]
+                    list_map_copy[y][x] = 0
+
+                    if list_map_copy[save_num[1]][x] == 0:
+                        list_map_copy[save_num[1]][x] = imsi_num
+                        save_num[1] += 1
+
+                    elif list_map_copy[save_num[1]][x] == imsi_num:
+                        list_map_copy[save_num[1]][x] *= 2
+                        if list_map_copy[save_num[1]][x] > result:
+                            result = list_map_copy[save_num[1]][x]
+                    else:
+                        list_map_copy[save_num[1]-1][x] = imsi_num
+                    save_num = [list_map_copy[save_num[1]-1][x],save_num[1]-1]
+    #print(result)
+    return list_map_copy
+                    
+
+
+N = int(sys.stdin.readline())
+
+list_map = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
+for y in range(N):
+    for x in range(N):
+        if list_map[y][x] > result:
+            result = list_map[y][x]
+
+list_queue = deque([list_map])
+#print(list_queue)
+end_count = [1]
+count_now = 0
+cccccccount = 1
+while cccccccount<6: # 대충 계산을 해 보니 그냥 1024번 무식하게 다 돌려도 충분히 통과될거 같아서 이렇게 짜버렸다..ㅜ
+    now_map = list_queue.popleft()
+    #print("===========")
+    #[print(a) for a in now_map]
+    end_count[-1] -= 1
+    for i in range(4):
+        list_queue.append(move(N, now_map, i))
+        count_now += 1
+    if end_count[-1] == 0:
+        end_count.append(count_now)
+        count_now = 0
+        cccccccount += 1
+    
+    
+print(result)
