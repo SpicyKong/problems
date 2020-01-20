@@ -1,6 +1,28 @@
-# https://www.acmicpc.net/problem/4781 문제 제목 : 사탕 가게 , 언어 : Python, 날짜 : 2020-01-16, 결과 : 실패
-# 파이썬으로 못푸는 문제인지 백준에선 파이썬 정답자가 한명밖에 없다.
-# 시간될때 C로 다시 풀어봐야겠다.
+# https://www.acmicpc.net/problem/4781 문제 제목 : 사탕 가게 , 언어 : Python, 날짜 : 2020-01-16, 결과 : 실패(시간초과)
+# https://www.acmicpc.net/problem/4781 문제 제목 : 사탕 가게 , 언어 : Python, 날짜 : 2020-01-20, 결과 : 성공
+
+import sys
+
+while True:
+    n, m = map(float, sys.stdin.readline().split())
+    if n == 0 and m == 0:
+        break
+    m = round(m*100)
+    list_dp = [0]*(m+1)
+    
+
+    iteration_count = 0
+    while n > iteration_count:
+        c, p = map(float, sys.stdin.readline().split())
+        p = round(p*100)
+        for i in range(p, m+1):
+            list_dp[i] = max(list_dp[i], list_dp[i - p] + c)
+        iteration_count+=1
+    print(int(list_dp[-1]))
+
+
+
+# 실패코드
 import sys
 
 input_a = sys.stdin.readline
