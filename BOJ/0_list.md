@@ -1,5 +1,5 @@
 # 풀어야할 번호
-1009 1016 1041 1629 1904 2580 2622 2751 3101 6986 10800 10827 10944 11401 11505 11559 11652 17836 18017
+1009 1016 1041 1904 2580 2622 2751 3101 6986 10800 10827 10944 11401 11505 11559 11652 17836 18017
 # 풀었던 문제 (제가 풀어본 순서대로 나열되어 있습니다.)
 | 문제 번호 | 문제이름 | 결과 |
 | :--- | :---: | ---: |
@@ -167,8 +167,7 @@
 |[Q_1629](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1629.py)|[곱셈](https://www.acmicpc.net/problem/1629)|:smile:(성공)|
 |[Q_2819](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2819.py)|[상근이의 로봇](https://www.acmicpc.net/problem/2819)|:smile:(성공)|
 |[Q_12100](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_12100.py)|[2048 (Easy)](https://www.acmicpc.net/problem/12100)|:smile:(성공)|
-|[Q_4781](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4781.py)|[사탕
-가게](https://www.acmicpc.net/problem/4781)|:smile:(성공)|
+|[Q_4781](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4781.py)|[사탕가게](https://www.acmicpc.net/problem/4781)|:smile:(성공)|
 
 
 
