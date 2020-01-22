@@ -1,5 +1,5 @@
 # 풀어야할 번호
-1009 1016 1041 1904 2580 2622 2751 3101 6986 10800 10827 10944 11401 11505 11559 11652 17836 18017
+1009 1016 1904 2580 2622 2751 3101 6986 10800 10827 10944 11401 11505 11559 11652 17836 18017
 # 풀었던 문제 (제가 풀어본 순서대로 나열되어 있습니다.)
 | 문제 번호 | 문제이름 | 결과 |
 | :--- | :---: | ---: |
@@ -146,7 +146,6 @@
 |[Q_18229](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_18229.py)|[내가 살게, 아냐 내가 살게](https://www.acmicpc.net/problem/18229)|:smile:(성공)|
 |[Q_2169](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2169.py)|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|:exclamation:(실패)|
 |[Q_2812](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2812.py)|[크게 만들기](https://www.acmicpc.net/problem/2812)|:smile:(성공)|
-|[Q_1041](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1041.py)|[주사위](https://www.acmicpc.net/problem/1041)|:exclamation:(실패)|
 |[Q_9184](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9184.py)|[신나는 함수 실행](https://www.acmicpc.net/problem/9184)|:smile:(성공)|
 |[Q_1837](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1837.py)|[암호제작](https://www.acmicpc.net/problem/1837)|:smile:(성공)|
 |[Q_9020](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9020.py)|[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|:smile:(성공)|
@@ -169,7 +168,7 @@
 |[Q_12100](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_12100.py)|[2048 (Easy)](https://www.acmicpc.net/problem/12100)|:smile:(성공)|
 |[Q_4781](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4781.py)|[사탕가게](https://www.acmicpc.net/problem/4781)|:smile:(성공)|
 |[Q_1652](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1652.py)|[누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)|:smile:(성공)|
-
+|[Q_1041](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1041.py)|[주사위](https://www.acmicpc.net/problem/1041)|:smile:(성공)|
 
 
 
