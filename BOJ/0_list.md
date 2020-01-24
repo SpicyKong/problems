@@ -170,7 +170,7 @@
 |[Q_1652](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1652.py)|[누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)|:smile:(성공)|
 |[Q_1041](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1041.py)|[주사위](https://www.acmicpc.net/problem/1041)|:smile:(성공)|
 |[Q_1222](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1222.py)|[홍준 프로그래밍 대회](https://www.acmicpc.net/problem/1222)|:exclamation:(실패)|
-
+|[Q_1072](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1072.py)|[게임](https://www.acmicpc.net/problem/1072)|:smile:(성공)|
 
 
 
