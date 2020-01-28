@@ -173,7 +173,7 @@
 |[Q_1072](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1072.py)|[게임](https://www.acmicpc.net/problem/1072)|:smile:(성공)|
 |[Q_4179](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4179.py)|[불!](https://www.acmicpc.net/problem/4179)|:smile:(성공)|
 |[Q_1111](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1111.py)|[IQ Test](https://www.acmicpc.net/problem/1111)|:exclamation:(실패)|
-
+|[Q_11967](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11967.py)|[불켜기](https://www.acmicpc.net/problem/11967)|:smile:(성공)|
 
 
 
