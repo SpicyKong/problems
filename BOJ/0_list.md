@@ -1,5 +1,5 @@
 # 풀어야할 번호
-1009 1016 1904 2580 2622 2751 3101 6986 10800 10827 10944 11401 11505 11559 11652 17836 18017
+1009 1016 1111 1222 1904 2580 2622 2751 3101 6986 10800 10827 10944 11401 11505 11559 11652 17836 18017
 # 풀었던 문제 (제가 풀어본 순서대로 나열되어 있습니다.)
 | 문제 번호 | 문제이름 | 결과 |
 | :--- | :---: | ---: |
@@ -174,7 +174,7 @@
 |[Q_4179](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4179.py)|[불!](https://www.acmicpc.net/problem/4179)|:smile:(성공)|
 |[Q_1111](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1111.py)|[IQ Test](https://www.acmicpc.net/problem/1111)|:exclamation:(실패)|
 |[Q_11967](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11967.py)|[불켜기](https://www.acmicpc.net/problem/11967)|:smile:(성공)|
-
+|[Q_1064](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1064.py)|[평행사변형](https://www.acmicpc.net/problem/1064)|:smile:(성공)|
 
 
 
