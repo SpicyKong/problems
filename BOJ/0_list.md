@@ -175,8 +175,8 @@
 |[Q_1111](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1111.py)|[IQ Test](https://www.acmicpc.net/problem/1111)|:exclamation:(실패)|
 |[Q_11967](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11967.py)|[불켜기](https://www.acmicpc.net/problem/11967)|:smile:(성공)|
 |[Q_1064](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1064.py)|[평행사변형](https://www.acmicpc.net/problem/1064)|:smile:(성공)|
-
-
+|[Q_5573](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5573.py)|[산책](https://www.acmicpc.net/problem/5573)|:smile:(성공)|
+|[Q_5373](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5373.py)|[큐빙](https://www.acmicpc.net/problem/5373)|:smile:(성공)|
 
 
 
