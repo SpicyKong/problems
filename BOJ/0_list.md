@@ -179,6 +179,16 @@
 |[Q_5373](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5373.py)|[큐빙](https://www.acmicpc.net/problem/5373)|:smile:(성공)|
 |[Q_2206](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2206.py)|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|:smile:(성공)|
 |[Q_6581](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_6581.py)|[HTML](https://www.acmicpc.net/problem/6581)|:smile:(성공)|
+|[Q_1016](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1016.py)|[제곱 ㄴㄴ 수](https://www.acmicpc.net/problem/1016)|:smile:(성공)|
+
+
+
+
+
+
+
+
+
 
 
 
