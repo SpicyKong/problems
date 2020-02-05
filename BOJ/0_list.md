@@ -182,7 +182,7 @@
 |[Q_1016](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1016.py)|[제곱 ㄴㄴ 수](https://www.acmicpc.net/problem/1016)|:smile:(성공)|
 |[Q_3425](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3425.py)|[고스택](https://www.acmicpc.net/problem/3425)|:smile:(성공)|
 |[Q_2146](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2146.py)|[다리 만들기](https://www.acmicpc.net/problem/2146)|:smile:(성공)|
-
+|[Q_14502](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_14502.py)|[연구소](https://www.acmicpc.net/problem/14502)|:smile:(성공)|
 
 
 
