@@ -186,7 +186,7 @@
 |[Q_1759](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1759.py)|[암호 만들기](https://www.acmicpc.net/problem/1759)|:smile:(성공)|
 |[Q_1600](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1600.py)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|:exclamation:(실패)|
 |[Q_5046](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5046.py)|[전국 대학생 프로그래밍 대회 동아리 연합](https://www.acmicpc.net/problem/5046)|:smile:(성공)|
-
+|[Q_9996](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9996.py)|[한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)|:smile:(성공)|
 
 
 
