@@ -1,6 +1,51 @@
 # https://www.acmicpc.net/problem/1111 문제 제목 : IQ Test , 언어 : Python, 날짜 : 2020-01-26, 결과 : 실패
+# https://www.acmicpc.net/problem/1111 문제 제목 : IQ Test , 언어 : Python, 날짜 : 2020-02-10, 결과 : 성공
 # 왜 안될까
+# 다시 식세우고 해보니 바로 맞았다!
 
+# 성공코드
+import sys
+
+N = int(sys.stdin.readline())
+list_nums = list(map(int, sys.stdin.readline().split()))
+
+"""
+n1 = n1
+n2 = n1*a + b
+n3 = n2*a + b = (n1*a + b)*a + b
+
+n3 - n2 = (n1*a + b)*a + b - n1*a - b
+        = n1*a*a + a*b + b - n1*a - b
+        = a(n1*a + b - n1)
+        = a(n2 - n1)
+(n3 - n2)/(n2 - n1) = a
+"""
+if N == 1:
+    print('A')
+elif N == 2:
+    if list_nums[0] == list_nums[1]:
+        print(list_nums[0])
+    else:
+        print('A')
+else:
+    if list_nums[1] - list_nums[0]:
+        A = (list_nums[2] - list_nums[1])//(list_nums[1] - list_nums[0])
+    else:
+        A = 1
+    B = list_nums[1] - list_nums[0]*A
+
+    check = 0
+    for i in range(N-1):
+        if not list_nums[i+1] == list_nums[i]*A + B:
+            check = 1
+            break
+    if check:
+        print('B')
+    else:
+        print(list_nums[-1]*A + B)
+    
+
+################### 실패코드
 import sys
 N = int(sys.stdin.readline())
 list_nums = list(map(int, sys.stdin.readline().split()))
