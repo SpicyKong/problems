@@ -187,7 +187,7 @@
 |[Q_5046](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5046.py)|[전국 대학생 프로그래밍 대회 동아리 연합](https://www.acmicpc.net/problem/5046)|:smile:(성공)|
 |[Q_9996](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9996.py)|[한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)|:smile:(성공)|
 |[Q_1111](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1111.py)|[IQ Test](https://www.acmicpc.net/problem/1111)|:smile:(성공)|
-
+|[Q_2916](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2916.py)|[자와 각도기](https://www.acmicpc.net/problem/2916)|:smile:(성공)|
 
 
 
