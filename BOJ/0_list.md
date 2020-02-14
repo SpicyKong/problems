@@ -188,9 +188,8 @@
 |[Q_9996](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9996.py)|[한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)|:smile:(성공)|
 |[Q_1111](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1111.py)|[IQ Test](https://www.acmicpc.net/problem/1111)|:smile:(성공)|
 |[Q_2916](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2916.py)|[자와 각도기](https://www.acmicpc.net/problem/2916)|:smile:(성공)|
-|[Q_1981](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1981.py)|[배
-열에서 이동](https://www.acmicpc.net/problem/1981)|:exclamation:(실패)|
-
+|[Q_1981](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1981.py)|[배열에서 이동](https://www.acmicpc.net/problem/1981)|:exclamation:(실패)|
+|[Q_11652](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11652.py)|[카드](https://www.acmicpc.net/problem/11652)|:smile:(성공)|
 
 
 
