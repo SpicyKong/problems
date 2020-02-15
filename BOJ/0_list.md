@@ -117,7 +117,6 @@
 |[Q_2965](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2965.py)|[캥거루 세마리](https://www.acmicpc.net/problem/2965)|:smile:(성공)|
 |[Q_1138](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1138.py)|[한 줄로 서기](https://www.acmicpc.net/problem/1138)|:smile:(성공)|
 |[Q_8979](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_8979.py)|[올림픽](https://www.acmicpc.net/problem/8979)|:exclamation:(실패)|
-|[Q_3101](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3101.py)|[토끼의 이동](https://www.acmicpc.net/problem/3101)|:exclamation:(실패)|
 |[Q_1406](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1406.py)|[에디터](https://www.acmicpc.net/problem/1406)|:smile:(성공)|
 |[Q_1924](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1924.py)|[2007년](https://www.acmicpc.net/problem/1924)|:smile:(성공)|
 |[Q_1105](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1105.py)|[팔](https://www.acmicpc.net/problem/1105)|:smile:(성공)|
