@@ -1,5 +1,5 @@
 # 풀어야할 번호
-1009 1016 1111 1222 1904 2580 2622 2751 3101 6986 10800 10827 10944 11401 11505 11559 11652 17836 18017
+1009 1222 1600 1904 1981 2580 2622 2751 6986 10800 10827 10944 11401 11505 11559 17836 18017
 # 풀었던 문제 (제가 풀어본 순서대로 나열되어 있습니다.)
 | 문제 번호 | 문제이름 | 결과 |
 | :--- | :---: | ---: |
@@ -190,7 +190,7 @@
 |[Q_1981](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1981.py)|[배열에서 이동](https://www.acmicpc.net/problem/1981)|:exclamation:(실패)|
 |[Q_11652](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11652.py)|[카드](https://www.acmicpc.net/problem/11652)|:smile:(성공)|
 |[Q_3101](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3101.py)|[토끼의 이동](https://www.acmicpc.net/problem/3101)|:smile:(성공)|
-
+|[Q_1309](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1309.py)|[동물원](https://www.acmicpc.net/problem/1309)|:smile:(성공)|
 
 
 
