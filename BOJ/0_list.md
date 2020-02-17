@@ -191,7 +191,7 @@
 |[Q_11652](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11652.py)|[카드](https://www.acmicpc.net/problem/11652)|:smile:(성공)|
 |[Q_3101](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3101.py)|[토끼의 이동](https://www.acmicpc.net/problem/3101)|:smile:(성공)|
 |[Q_1309](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1309.py)|[동물원](https://www.acmicpc.net/problem/1309)|:smile:(성공)|
-
+|[Q_10835](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10835.py)|[카드게임](https://www.acmicpc.net/problem/10835)|:smile:(성공)|
 
 
 
