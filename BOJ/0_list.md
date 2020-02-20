@@ -193,7 +193,7 @@
 |[Q_1309](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1309.py)|[동물원](https://www.acmicpc.net/problem/1309)|:smile:(성공)|
 |[Q_10835](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10835.py)|[카드게임](https://www.acmicpc.net/problem/10835)|:smile:(성공)|
 |[Q_11057](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11057.py)|[오르막 수](https://www.acmicpc.net/problem/11057)|:smile:(성공)|
-|[Q_1495](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1495.py)|[기타리스트](https://www.acmicpc.net/problem/1495)|:exclamation:(실패)|
+|[Q_1495](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1495.py)|[기타리스트](https://www.acmicpc.net/problem/1495)|:smile:(성공)|
 
 
 
