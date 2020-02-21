@@ -194,7 +194,7 @@
 |[Q_10835](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10835.py)|[카드게임](https://www.acmicpc.net/problem/10835)|:smile:(성공)|
 |[Q_11057](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11057.py)|[오르막 수](https://www.acmicpc.net/problem/11057)|:smile:(성공)|
 |[Q_1495](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1495.py)|[기타리스트](https://www.acmicpc.net/problem/1495)|:smile:(성공)|
-
+|[Q_14501](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_14501.py)|[퇴사](https://www.acmicpc.net/problem/14501)|:smile:(성공)|
 
 
 
