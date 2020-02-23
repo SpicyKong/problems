@@ -196,6 +196,16 @@
 |[Q_1495](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1495.py)|[기타리스트](https://www.acmicpc.net/problem/1495)|:smile:(성공)|
 |[Q_14501](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_14501.py)|[퇴사](https://www.acmicpc.net/problem/14501)|:smile:(성공)|
 |[Q_1360](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1360.py)|[되돌리기](https://www.acmicpc.net/problem/1360)|:smile:(성공)|
+|[Q_17822](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_17822.py)|[원판 돌리기](https://www.acmicpc.net/problem/17822)|:exclamation:(실패)|
+
+
+
+
+
+
+
+
+
 
 
 
