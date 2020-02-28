@@ -200,7 +200,7 @@
 |[Q_2629](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2629.py)|[양팔저울](https://www.acmicpc.net/problem/2629)|:smile:(성공)|
 |[Q_1756](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1756.py)|[피자 굽기](https://www.acmicpc.net/problem/1756)|:smile:(성공)|
 |[Q_3025](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3025.py)|[돌 던지기](https://www.acmicpc.net/problem/3025)|:exclamation:(실패)|
-
+|[Q_1339](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1339.py)|[단어 수학](https://www.acmicpc.net/problem/1339)|:smile:(성공)|
 
 
 
