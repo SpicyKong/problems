@@ -1,4 +1,5 @@
 # 문제 제목 : 컬러볼 , 언어 : Python, 날짜 : 20190731, 결과 : 시간초과
+# https://www.acmicpc.net/problem/10800 문제 제목 : 컬러볼 , 언어 : Python, 날짜 : 2020-02-29, 결과 : 실패
 
 num = int(input())
 list_color = []
