@@ -1,5 +1,5 @@
 # 문제 제목 : 컬러볼 , 언어 : Python, 날짜 : 20190731, 결과 : 시간초과
-# https://www.acmicpc.net/problem/10800 문제 제목 : 컬러볼 , 언어 : Python, 날짜 : 2020-02-29, 결과 : 실패
+
 
 num = int(input())
 list_color = []
@@ -42,3 +42,50 @@ for a in range(num):
             elif input_ob[1] < list_a[b][1]:
                 list_b[b] += input_ob[1]
 [print(c) for c in list_b]
+############################################################################################
+# https://www.acmicpc.net/problem/10800 문제 제목 : 컬러볼 , 언어 : Python, 날짜 : 2020-02-29, 결과 : 실패
+"""
+    회고:
+    백준을 처음 접했을때 시도해보았던 문제다. 아마 그때도 처음에 O(N^2)으로 풀었던거같은데 오늘도 잘못된 방법임을 알지만 그렇게 시도하긴 했다.
+    그래서 곰곰히 고민하다 도저히 안되겠어서 검색을 해봤더니 대단하신분들이 많았다. 정렬을 한다는 아이디어는 접근을 했지만 내가 시도했던 코드는
+    최적화했다고 생각했던 코드가 결국에는 O(NlogN) + O(N^2)이였다. 물론 아직도 못풀긴했다. 같은 크기의 경우를 어떻게 처리해주냐가 관건인데
+    내일 한번 더 시도해봐야겠다.
+    
+    
+"""
+
+import sys
+
+N = int(sys.stdin.readline())
+list_command = [list(map(int, sys.stdin.readline().split()))+[_] for _ in range(N)]
+list_command = sorted(list_command, key = lambda a : a[1])
+now_sum = 0
+list_result = [0]*N
+list_color = [0]*(N+1)
+index_count = 0
+former_ball = -1
+former_color = -1
+save_sum = -1
+imsi_queue = []
+for ball in list_command:
+    if not ball[1] == former_ball:
+        list_result[ball[2]] = now_sum - list_color[ball[0]]
+        save_sum = now_sum
+        list_color[ball[0]]+=ball[1]
+        former_color = ball[0]
+        while imsi_queue:
+            imsi = imsi_queue.pop()
+            list_color[imsi[0]]+=imsi[1]
+    else:
+        if former_color == ball[0]:
+            list_result[ball[2]] = save_sum
+        else:
+            list_result[ball[2]] = save_sum - list_color[ball[0]]
+
+        imsi_queue.append([ball[0],ball[1]])
+
+    former_ball = ball[1]
+    now_sum+=ball[1]
+    index_count += 1
+
+[print(ball) for ball in list_result]
