@@ -4,7 +4,6 @@
 | 문제 번호 | 문제이름 | 결과 |
 | :--- | :---: | ---: |
 |[Q_10804](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10804.py) (클릭하시면 소스코드로 이동)<!-- 2019/07/29(월) 시작 -->|[카드 역배치](https://www.acmicpc.net/problem/10804)(클릭하시면 문제로 이동)| :smile:(성공) |
-|[Q_10800](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10800.py)|[컬러볼](https://www.acmicpc.net/problem/10800)| :exclamation:(실패)|
 |[Q_10805](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10805.py)|[L모양 종이 자르기](https://www.acmicpc.net/problem/10805)|:exclamation:(실패)|
 |[Q_1000](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1000.py)|[A + B](https://www.acmicpc.net/problem/1000)| :smile:(성공)|
 |[Q_2747](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2747.py)|[피보나치 수](https://www.acmicpc.net/problem/2747)| :smile:(성공)|
@@ -201,7 +200,7 @@
 |[Q_1756](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1756.py)|[피자 굽기](https://www.acmicpc.net/problem/1756)|:smile:(성공)|
 |[Q_3025](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3025.py)|[돌 던지기](https://www.acmicpc.net/problem/3025)|:exclamation:(실패)|
 |[Q_1339](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1339.py)|[단어 수학](https://www.acmicpc.net/problem/1339)|:smile:(성공)|
-
+|[Q_10800](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10800.py)|[컬러볼](https://www.acmicpc.net/problem/10800)|:smile:(성공)|
 
 
 
