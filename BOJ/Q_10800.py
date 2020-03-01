@@ -89,3 +89,55 @@ for ball in list_command:
     index_count += 1
 
 [print(ball) for ball in list_result]
+###############################################################################################
+# https://www.acmicpc.net/problem/10800 문제 제목 : 컬러볼 , 언어 : Python, 날짜 : 2020-03-01(!!!), 결과 : 성공
+"""
+    회고:
+    중복 처리 방법 : 우선 정렬된 공들을 가지고 누적합을 구해나갈때 이전과 같은 값인지부터 비교를한다. 만약 같은값이라면,
+    현재 index - 1번째에 했던 행동들(누적합 구하기, 컬러별 누적합 구하기)를 취소해 준다. 그리고 중복이 끝나면 처리할 공들을 모아놓은 리스트인
+    imsi_stack에 넣어준다. 만약 현재 공이 중복되지않는 공이라면 기존의 imsi_stack에 대한 연산을 해 주고 난뒤 현재 연산을 한다.
+    솔직히 내가 한 말이지만 먼 이야기인지 모르겠다. 나중에 다시 작성을 해봐야겠다.
+    
+    일기: 오늘은 정말 운수좋은 날인것 같아 작성해본다.
+    요즘 시국이 시국인지라 뉴스만 나와도 겁이난다. 내가 사는 동네에도 갑자기 확진자가 나오기 시작했다. 하루빨리 이 사태가 잠잠해지고
+    대학에 가 그동안 하고 싶었던 공부를 하고싶다. 게다가 오늘은 정말 운이 없는 것 같다. 기존에 시켰던 마스크가 취소당하고 어렵게 또 마스크를 
+    구매했는데 알고보니 어린이용이였다. 그리고 홈쇼핑에 전화로만 판매하는 마스크가 있는데 전화연결에 성공했는데 정보를 입력하다가 이만 끊겨버렸다..
+    그리고 오늘 그릇을 깨뜨렸다.
+    내일은 오늘보단 좋겠지.
+"""
+
+
+import sys
+
+N = int(sys.stdin.readline())
+list_balls = [list(map(int, sys.stdin.readline().split()))+[_] for _ in range(N)]
+list_balls = sorted(list_balls, key = lambda a : (a[1],a[0]))
+list_print = [-1]*(N)
+
+list_color = [0]*(N+1)
+now_sum = 0
+former_ball = list_balls[0]
+imsi_stack = []
+count = 0
+token = 0
+for now_ball in list_balls:
+    if former_ball[1] == now_ball[1]:
+        if token == 0 and count >= 1:
+            now_sum -= list_balls[count-1][1]
+            list_color[list_balls[count-1][0]] -= list_balls[count-1][1]
+            imsi_stack.append(list_balls[count-1])
+        list_print[now_ball[2]] = now_sum - list_color[now_ball[0]]
+        imsi_stack.append(now_ball)
+        token = 1
+    else:
+        while imsi_stack:
+            imsi_ball = imsi_stack.pop()
+            list_color[imsi_ball[0]] += imsi_ball[1]
+            now_sum += imsi_ball[1]
+        list_print[now_ball[2]] = now_sum - list_color[now_ball[0]]
+        list_color[now_ball[0]] += now_ball[1]
+        now_sum += now_ball[1]
+        token = 0
+    former_ball = now_ball
+    count+=1
+[print(a) for a in list_print]
