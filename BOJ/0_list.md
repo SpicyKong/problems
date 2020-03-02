@@ -103,7 +103,6 @@
 |[Q_1002](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1002.py)|[터렛](https://www.acmicpc.net/problem/1002)|:smile:(성공)|
 |[Q_1260](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1260.py)|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|:smile:(성공)|
 |[Q_2606](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2606.py)|[바이러스](https://www.acmicpc.net/problem/2606)|:smile:(성공)|
-|[Q_17836](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_17836.py)|[공주님을 구해라!](https://www.acmicpc.net/problem/17836)|:exclamation:(실패)|
 |[Q_8958](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_8958.py)|[OX퀴즈](https://www.acmicpc.net/problem/8958)|:smile:(성공)|
 |[Q_10809](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10809.py)|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|:smile:(성공)|
 |[Q_10845](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10845.py)|[큐](https://www.acmicpc.net/problem/10845)|:smile:(성공)|
@@ -201,6 +200,24 @@
 |[Q_3025](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3025.py)|[돌 던지기](https://www.acmicpc.net/problem/3025)|:exclamation:(실패)|
 |[Q_1339](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1339.py)|[단어 수학](https://www.acmicpc.net/problem/1339)|:smile:(성공)|
 |[Q_10800](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10800.py)|[컬러볼](https://www.acmicpc.net/problem/10800)|:smile:(성공)|
+|[Q_17836](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_17836.py)|[공주님을 구해라!](https://www.acmicpc.net/problem/17836)|:smile:(성공)|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
