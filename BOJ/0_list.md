@@ -180,7 +180,6 @@
 |[Q_2146](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2146.py)|[다리 만들기](https://www.acmicpc.net/problem/2146)|:smile:(성공)|
 |[Q_14502](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_14502.py)|[연구소](https://www.acmicpc.net/problem/14502)|:smile:(성공)|
 |[Q_1759](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1759.py)|[암호 만들기](https://www.acmicpc.net/problem/1759)|:smile:(성공)|
-|[Q_1600](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1600.py)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|:exclamation:(실패)|
 |[Q_5046](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5046.py)|[전국 대학생 프로그래밍 대회 동아리 연합](https://www.acmicpc.net/problem/5046)|:smile:(성공)|
 |[Q_9996](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9996.py)|[한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)|:smile:(성공)|
 |[Q_1111](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1111.py)|[IQ Test](https://www.acmicpc.net/problem/1111)|:smile:(성공)|
@@ -201,7 +200,7 @@
 |[Q_1339](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1339.py)|[단어 수학](https://www.acmicpc.net/problem/1339)|:smile:(성공)|
 |[Q_10800](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10800.py)|[컬러볼](https://www.acmicpc.net/problem/10800)|:smile:(성공)|
 |[Q_17836](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_17836.py)|[공주님을 구해라!](https://www.acmicpc.net/problem/17836)|:smile:(성공)|
-
+|[Q_1600](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1600.py)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|:smile:(성공)|
 
 
 
