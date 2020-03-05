@@ -201,7 +201,8 @@
 |[Q_10800](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10800.py)|[컬러볼](https://www.acmicpc.net/problem/10800)|:smile:(성공)|
 |[Q_17836](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_17836.py)|[공주님을 구해라!](https://www.acmicpc.net/problem/17836)|:smile:(성공)|
 |[Q_1600](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1600.py)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|:smile:(성공)|
-
+|[Q_1922](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1922.py)|[네트워크 연결](https://www.acmicpc.net/problem/1922)|:smile:(성공)|
+|[Q_2688](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2688.py)|[줄어들지 않아](https://www.acmicpc.net/problem/2688)|:smile:(성공)|
 
 
 
