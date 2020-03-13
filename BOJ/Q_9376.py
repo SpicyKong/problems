@@ -2,6 +2,7 @@
 """
     회고:
     이 문제는 내일 풀고나서 회고를 작성하고 싶다.
+    밑에 회고 작성했다.
 """
 import sys
 from collections import deque
@@ -89,3 +90,72 @@ for _ in range(T):
     #print(result)
     list_result.append(result)
 [print(a) for a in list_result]
+#####################################################################################################
+# https://www.acmicpc.net/problem/9376 문제 제목 : 탈옥 , 언어 : Python, 날짜 : 2020-03-13, 결과 : 성공
+"""
+    회고:
+    결국 다른분의 코드를 참고했다. 하지만 다른분의 코드를 이해하는데에도 오래걸렸다..
+    먼저 기본적인 아이디어인 bfs를 해주며 visit에 지나온 문의 개수를 카운팅해주는 방법은 기존에 내가 생각했던 방법과 유사했다.
+    하지만 맵의 테두리에 .(빈공간)을 추가하고 (0,0)에서 bfs를 추가한 뒤 3군데에서 BFS를 돌릴생각은 하지 못했다..
+    이 방법의 장점은 항상 자신의 위치 기준으로 지나온 비용, 다른 탈옥수를 데리러 가는 비용, 앞으로 필요한 비용을 계산하기가 수월하다는것이다.
+    세상에는 정말 대단하신 분들이 많은것 같다..ㅠㅠ
+"""
+
+import sys
+from collections import deque
+
+
+def bfs(fx, fy):
+    list_visit = [[-1]*(w+2) for _ in range(h+2)]
+    list_visit[fy][fx] = 0
+    list_queue = deque()
+    list_queue.append([fx, fy,0])
+    while list_queue:
+        now_x, now_y,now_count = list_queue.popleft()
+        for i in range(4):
+            nx = now_x + dx[i]
+            ny = now_y + dy[i]
+            if 0 <= nx <= w+1 and 0 <= ny <= h+1:
+                if (list_map[ny][nx] == '.' or list_map[ny][nx] == '$') and list_visit[ny][nx] == -1:
+                    list_queue.append([nx,ny,now_count])
+                    list_visit[ny][nx] = now_count
+                elif list_map[ny][nx] == '#' and list_visit[ny][nx] == -1:
+                    list_queue.append([nx,ny,now_count+1])
+                    list_visit[ny][nx] = now_count+1
+                elif (list_map[ny][nx] == '.' or list_map[ny][nx] == '$') and list_visit[ny][nx] > now_count:                
+                    list_queue.append([nx,ny,now_count])
+                    list_visit[ny][nx] = now_count
+                elif list_map[ny][nx] == '#' and list_visit[ny][nx] > now_count+1:
+                    list_queue.append([nx,ny,now_count+1])
+                    list_visit[ny][nx] = now_count+1
+    return list_visit
+
+dx = [1,-1,0,0]
+dy = [0,0,1,-1]
+T = int(sys.stdin.readline())
+for _ in range(T):
+    h, w = map(int, sys.stdin.readline().split())
+    list_map = []
+    list_map.append(['.']*(w+2))
+    for _ in range(h):
+        imsi_input = list(sys.stdin.readline().strip())
+        list_map.append(['.'] + imsi_input +['.'])
+    list_map.append(['.']*(w+2))
+    list_talok = []
+    for y in range(h+2):
+        for x in range(w+2):
+            if list_map[y][x] == '$':
+                list_talok.append([x, y])
+    imsi_map1 = bfs(0, 0)
+    imsi_map2 = bfs(list_talok[0][0], list_talok[0][1])
+    imsi_map3 = bfs(list_talok[1][0], list_talok[1][1])
+    result = 10000000000
+    for y in range(h+2):
+        for x in range(w+2):
+            if not list_map[y][x] == '*':
+                imsi_sum = imsi_map1[y][x] + imsi_map2[y][x] + imsi_map3[y][x]
+                if list_map[y][x] == '#':
+                    imsi_sum-=2
+                if result > imsi_sum:
+                    result = imsi_sum
+    print(result)
