@@ -211,7 +211,7 @@
 [Q_17144](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_17144.py)|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|:smile:(성공)|
 |[Q_17406](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_17406.py)|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|:smile:(성공)|
 |[Q_9376](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9376.py)|[탈옥](https://www.acmicpc.net/problem/9376)|:smile:(성공)|
-
+|[Q_1461](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1461.py)|[도서관](https://www.acmicpc.net/problem/1461)|:exclamation:(실패)|
 
 
 
