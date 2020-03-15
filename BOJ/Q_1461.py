@@ -49,3 +49,50 @@ print(result-num)
 37 + 37
 39
 '''
+#######################################################################
+# https://www.acmicpc.net/problem/1461 문제 제목 : 도서관 , 언어 : Python, 날짜 : 2020-03-15, 결과 : 성공
+"""
+    회고:
+    어제는 집중이 안되서 오늘 다시풀었다. 
+    먼저 양수와 음수를 구분하고 각각의 리스트들을 정렬시켜주었다. 이때 음수는 내림차순으로 정렬시켜준다.
+    음수를 내림차순으로 정렬시키면 가장끝 인덱스에는 절댓값이 가장 큰 값이 온다.
+    그리고 M개의 책마다 result에 현재 책의 거리를 더해주면 거의 답에 근접하게 된다.
+    하지만 문제의 조건에 명시되어 있듯이 마지막 책을 두고 시작지점인 0으로 돌아오지 않아도 된다고 있으므로
+    가장 멀리 이동했던 값을 result에서 빼주면 된다.
+"""
+import sys
+def go(list_a):
+    global result
+    count = M
+    while list_a:
+        num = list_a.pop()
+        if num<0:
+            num*=-1
+        if count==M:
+            result+=num*2
+        count-=1
+        if count==0:
+            count=M
+    
+N, M = map(int, sys.stdin.readline().split())
+list_inputs = list(map(int, sys.stdin.readline().split()))
+list_minus = []
+list_plus = []
+result = 0
+for num in list_inputs:
+    if num > 0:
+        list_plus.append(num)
+    else:
+        list_minus.append(num)
+list_minus.sort(reverse=True)
+list_plus.sort()
+imsi_list = [0]
+if list_minus:
+    imsi_list.append(abs(list_minus[-1]))
+if list_plus:
+    imsi_list.append(list_plus[-1])
+result-=max(imsi_list)
+
+go(list_minus)
+go(list_plus)
+print(result)
