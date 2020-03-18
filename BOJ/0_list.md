@@ -215,7 +215,7 @@
 |[Q_2636](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2636.py)|[치즈](https://www.acmicpc.net/problem/2636)|:smile:(성공)|
 |[Q_2733](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2733.py)|[Brainf*ck](https://www.acmicpc.net/problem/2733)|:smile:(성공)|
 |[Q_9328](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9328.py)|[열쇠](https://www.acmicpc.net/problem/9328)|:smile:(성공)|
-
+|[Q_1194](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1194.py)|[달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)|:exclamation:(실패)|
 
 
 
