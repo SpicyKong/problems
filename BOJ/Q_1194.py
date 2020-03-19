@@ -63,3 +63,79 @@ if not end:
     print(-1)
 else:
     print(end)
+#####################################################################################
+# https://www.acmicpc.net/problem/1194 문제 제목 : 달이 차오른다, 가자. , 언어 : Python, 날짜 : 2020-03-19, 결과 : 실패
+"""
+    회고:
+    비트마스크를 적용해서 풀어보는데 기본테케도 틀린다..ㅠㅠ 지금 부터 맞힐때까지 시도해야겠다.
+    오늘은 과제하고 강의도 들었지만 생각보다 빨리 끝나서 여유를 부렸는데 생각보다 PS하는 시간이 늦어졌다. 내일부턴 오전중에 PS를 시작해봐야겠다.
+    아그리고 낮만 되면 강의서버가 터져서 오늘은 5시에 알람을 맞추고 6시에 일어났다. 강의를 듣기전 실시간 검색어를 봤는데 좋은 이야기가 하나도 없다.
+    이놈의 코로나..
+아래는 그때 실시간 검색어다.
+1 배우 문지윤                     태풍급 강풍 
+2 바흐 IOC 위원장                 이탈리아 하루 만에 475명 사망 
+3 급성 패혈증으로 사망             중국 바이러스 
+4 IOC 무책임하다                   누적 사망자 2천978명 
+5 한국이 더 안전                   뉴욕 증시 폭락 
+6 라디오스타 김민아                코로나19 사태 
+7 펜싱 국가대표                    코로나19 여파 
+8 PGA 챔피언십도 연기              오늘의 날씨 
+9 티켓 환불 불가                   미국 코로나19 환자 7천명 넘어 
+10 나는 트로트 가수다 설하윤        WTI 24% 대폭락
+"""
+
+import sys
+from collections import deque
+
+dx = [1,-1,0,0]
+dy = [0,0,1,-1]
+N, M = map(int, sys.stdin.readline().split())
+list_map = [list(sys.stdin.readline().strip()) for _ in range(N)]
+list_visit = [[[0,0] for _ in range(M)] for _ in range(N)]
+list_queue = deque()
+dict_key = {chr(65+i):i for i in range(6)}
+break_token = 0
+for y in range(N):
+    for x in range(M):
+        if list_map[y][x] == '0':
+            list_visit[y][x] = [1, 0]
+            list_queue.append([x,y,0,0])
+            break_token = 1
+            break
+    if break_token:
+        break
+end = 222222222222222222
+while list_queue:
+    now_x, now_y, key, result = list_queue.popleft()
+    #print('============')
+    #[print(a) for a in list_visit]
+    #print(now_x, now_y)
+    if list_map[now_y][now_x] == '1':
+        if result < end:
+            end = result
+    for i in range(4):
+        nx = now_x + dx[i]
+        ny = now_y + dy[i]
+        if 0 <= nx < M and 0 <= ny < N:
+            #print('key', key | list_visit[ny][nx][1], key, list_visit[ny][nx][1])
+            # not key == list_visit[ny][nx][1]
+            if (list_map[ny][nx] == '0' or list_map[ny][nx] == '1' or list_map[ny][nx] == '.') and (not list_visit[ny][nx][0] or not key == list_visit[ny][nx][1]) :
+                list_queue.append([nx,ny,key,result+1])
+                list_visit[ny][nx] = [1, key]
+            elif 'a' <= list_map[ny][nx] <= 'f' and (not list_visit[ny][nx][0] or not key == list_visit[ny][nx][1]):
+                key |= 1 << dict_key[list_map[ny][nx].upper()]
+                list_queue.append([nx,ny,key,result+1])
+                list_visit[ny][nx] = [1, key]
+            elif 'A' <= list_map[ny][nx] <= 'F' and (not list_visit[ny][nx][0] or not key == list_visit[ny][nx][1]):
+                i = dict_key[list_map[ny][nx]]
+                check = 1 << i
+                check = check & key
+                check >> i
+                if check:
+                    list_queue.append([nx, ny, key, result+1])
+                    list_visit[ny][nx] = [1, key]
+            
+if end == 222222222222222222:
+    print(-1)
+else:
+    print(end)
