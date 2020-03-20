@@ -139,3 +139,65 @@ if end == 222222222222222222:
     print(-1)
 else:
     print(end)
+#####################################################################################
+# https://www.acmicpc.net/problem/1194 문제 제목 : 달이 차오른다, 가자. , 언어 : Python, 날짜 : 2020-03-20, 결과 : 성공
+"""
+    회고:
+    아무리 생각해도 내가 전에 작성했던 코드의 논리의 흐름은 틀린게 없는것 같았다.
+    그래서 생각해보니 두가지 문제점이 있었다.
+    첫번째 문제점은 key값을 업데이트할때 얕은복사가 이루어져 전혀 상관없는 장소에서도 업데이트가 되었다.
+    두번째 문제점은 새로운 키를 발견해 왔던길을 되돌아갈수 있도록 처리해주는 과정에서 조건을 현재 key와 visit에 저장된 키값이 다르면 갈수있도록 해준점이다.
+    이 과정의 문제점은 만약 더 적은 키를 가지고 있음에도 계속 탐색을 진행하면서 무한루프에 빠지게 된다.
+    그래서 다시 원래 생각했던 or연산을 통해 값이 커지는 경우에만 이동을 시키게 만들었다.
+
+"""
+import sys
+from collections import deque
+
+dx = [1,-1,0,0]
+dy = [0,0,1,-1]
+N, M = map(int, sys.stdin.readline().split())
+list_map = [list(sys.stdin.readline().strip()) for _ in range(N)]
+list_visit = [[[0,0] for _ in range(M)] for _ in range(N)]
+list_queue = deque()
+dict_key = {chr(65+i):i for i in range(6)}
+break_token = 0
+for y in range(N):
+    for x in range(M):
+        if list_map[y][x] == '0':
+            list_visit[y][x] = [1, 0]
+            list_queue.append([x,y,0,0])
+            break_token = 1
+            break
+    if break_token:
+        break
+end = 222222222222222222
+while list_queue:
+    now_x, now_y, key, result = list_queue.popleft()
+    if list_map[now_y][now_x] == '1':
+        if result < end:
+            end = result
+    for i in range(4):
+        nx = now_x + dx[i]
+        ny = now_y + dy[i]
+        if 0 <= nx < M and 0 <= ny < N:
+            if (list_map[ny][nx] == '0' or list_map[ny][nx] == '1' or list_map[ny][nx] == '.') and (not list_visit[ny][nx][0] or key | list_visit[ny][nx][1] > list_visit[ny][nx][1]):
+                list_queue.append([nx,ny,key,result+1])
+                list_visit[ny][nx] = [1, key]
+            elif 'a' <= list_map[ny][nx] <= 'f' and (not list_visit[ny][nx][0] or key | list_visit[ny][nx][1] > list_visit[ny][nx][1]):
+                new_key = key | 1 << dict_key[list_map[ny][nx].upper()]
+                list_queue.append([nx,ny,new_key,result+1])
+                list_visit[ny][nx] = [1, new_key]
+            elif 'A' <= list_map[ny][nx] <= 'F' and (not list_visit[ny][nx][0] or key | list_visit[ny][nx][1] > list_visit[ny][nx][1]):
+                i = dict_key[list_map[ny][nx]]
+                check = 1 << i
+                check = check & key
+                check >> i
+                if check:
+                    list_queue.append([nx, ny, key, result+1])
+                    list_visit[ny][nx] = [1, key]
+            
+if end == 222222222222222222:
+    print(-1)
+else:
+    print(end)
