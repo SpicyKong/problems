@@ -217,7 +217,7 @@
 |[Q_9328](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9328.py)|[열쇠](https://www.acmicpc.net/problem/9328)|:smile:(성공)|
 |[Q_1194](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1194.py)|[달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)|:smile:(성공)|
 |[Q_2098](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2098.py)|[외판원 순회](https://www.acmicpc.net/problem/2098)|:smile:(성공)|
-
+|[Q_1473](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1473.py)|[미로 탈출](https://www.acmicpc.net/problem/1473)|:exclamation:(실패)|
 
 
 
