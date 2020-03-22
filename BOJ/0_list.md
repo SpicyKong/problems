@@ -1,5 +1,5 @@
 # 풀어야할 번호
-1009 1222 1600 1904 1981 2580 2622 2751 6986 10800 10827 10944 11401 11505 11559 17836 18017
+1009 1222 1520 1904 1981 2002 2140 2157 2579 2580 2622 2638 2751 3025 3197 6986 10827 10944 11401 11505 11559 12096 18017
 # 풀었던 문제 (제가 풀어본 순서대로 나열되어 있습니다.)
 | 문제 번호 | 문제이름 | 결과 |
 | :--- | :---: | ---: |
@@ -218,7 +218,7 @@
 |[Q_2098](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2098.py)|[외판원 순회](https://www.acmicpc.net/problem/2098)|:smile:(성공)|
 |[Q_1473](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1473.py)|[미로 탈출](https://www.acmicpc.net/problem/1473)|:exclamation:(실패)|
 |[Q_1987](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1987.py)|[알파벳](https://www.acmicpc.net/problem/1987)|:smile:(성공)|
-
+|[Q_2169](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2169.py)|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|:smile:(성공)|
 
 
 
