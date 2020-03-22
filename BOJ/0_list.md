@@ -89,7 +89,6 @@
 |[Q_1173](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1173.py)|[운동](https://www.acmicpc.net/problem/1173)|:smile:(성공)|
 |[Q_3190](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3190.py)|[뱀](https://www.acmicpc.net/problem/3190)|:smile:(성공)|
 |[Q_7569](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_7569.py)|[토마토](https://www.acmicpc.net/problem/7569)|:smile:(성공)|
-|[Q_1987](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1987.py)|[알파벳](https://www.acmicpc.net/problem/1987)|:exclamation:(실패)|
 |[Q_9095](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9095.py)|[1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|:smile:(성공)|
 |[Q_2581](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2581.py)|[소수](https://www.acmicpc.net/problem/2581)|:smile:(성공)|
 |[Q_1032](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1032.py)|[명령 프롬프트](https://www.acmicpc.net/problem/1032)|:smile:(성공)|
@@ -218,7 +217,7 @@
 |[Q_1194](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1194.py)|[달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)|:smile:(성공)|
 |[Q_2098](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2098.py)|[외판원 순회](https://www.acmicpc.net/problem/2098)|:smile:(성공)|
 |[Q_1473](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1473.py)|[미로 탈출](https://www.acmicpc.net/problem/1473)|:exclamation:(실패)|
-
+|[Q_1987](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1987.py)|[알파벳](https://www.acmicpc.net/problem/1987)|:smile:(성공)|
 
 
 
