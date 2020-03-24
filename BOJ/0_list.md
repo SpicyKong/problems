@@ -220,7 +220,7 @@
 |[Q_1987](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1987.py)|[알파벳](https://www.acmicpc.net/problem/1987)|:smile:(성공)|
 |[Q_2169](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2169.py)|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|:smile:(성공)|
 |[Q_16933](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_16933.py)|[벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)|:smile:(성공)|
-
+|[Q_1981](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1981.py)|[배열에서 이동](https://www.acmicpc.net/problem/1981)|:exclamation:(실패)|
 
 
 
