@@ -1,5 +1,5 @@
 # 풀어야할 번호
-1009 1222 1520 1904 1981 2002 2140 2157 2579 2580 2622 2638 2751 3025 3197 6986 10827 10944 11401 11505 11559 12096 18017
+1009 1222 1520 1904 2002 2140 2157 2579 2580 2622 2638 2751 3025 3197 6986 10827 10944 11401 11505 11559 12096 18017
 # 풀었던 문제 (제가 풀어본 순서대로 나열되어 있습니다.)
 | 문제 번호 | 문제이름 | 결과 |
 | :--- | :---: | ---: |
@@ -183,7 +183,6 @@
 |[Q_9996](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9996.py)|[한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)|:smile:(성공)|
 |[Q_1111](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1111.py)|[IQ Test](https://www.acmicpc.net/problem/1111)|:smile:(성공)|
 |[Q_2916](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2916.py)|[자와 각도기](https://www.acmicpc.net/problem/2916)|:smile:(성공)|
-|[Q_1981](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1981.py)|[배열에서 이동](https://www.acmicpc.net/problem/1981)|:exclamation:(실패)|
 |[Q_11652](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11652.py)|[카드](https://www.acmicpc.net/problem/11652)|:smile:(성공)|
 |[Q_3101](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3101.py)|[토끼의 이동](https://www.acmicpc.net/problem/3101)|:smile:(성공)|
 |[Q_1309](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1309.py)|[동물원](https://www.acmicpc.net/problem/1309)|:smile:(성공)|
@@ -220,7 +219,7 @@
 |[Q_1987](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1987.py)|[알파벳](https://www.acmicpc.net/problem/1987)|:smile:(성공)|
 |[Q_2169](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2169.py)|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|:smile:(성공)|
 |[Q_16933](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_16933.py)|[벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)|:smile:(성공)|
-|[Q_1981](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1981.py)|[배열에서 이동](https://www.acmicpc.net/problem/1981)|:exclamation:(실패)|
+|[Q_1981](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1981.py)|[배열에서 이동](https://www.acmicpc.net/problem/1981)|:smile:(성공)|
 
 
 
