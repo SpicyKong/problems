@@ -2,6 +2,7 @@
 # https://www.acmicpc.net/problem/1222 문제 제목 : 홍준 프로그래밍 대회 , 언어 : Python, 날짜 : 2020-02-11, 결과 : 실패
 # 처음에 문제를 잘못이해해서 질문게시판을 보다가 소수를 미리 다 구하는 방법도 있다는것을 알게되었지만 틀렸습니다가 뜬다.
 # 완벽한줄 알았는데..
+# 예전의 내가 쓴 주석들을 보니 정말 멍청했던것 같다.
 
 # 실패코드.2
 import sys
@@ -63,4 +64,33 @@ for threshold in list_sosu:
             count += 1
     if count > 1 and count*threshold > result:
         result = count*threshold
+print(result)
+
+
+####################################################################################################################
+# https://www.acmicpc.net/problem/1222 문제 제목 : 홍준 프로그래밍 대회 , 언어 : Python, 날짜 : 2020-03-25, 결과 : 성공
+"""
+    회고:
+    처음 잘못생각했던 부분은 2000000까지의 모든 소수를 구한 후 가장 큰 소수로 나누어떨어지는 값을 이용해 답을 구하려 했다.
+    하지만 생각해보니 그러면 공약수를 찾을수 없었다. 그래서 곰곰히 생각해보는데 아무리 생각해도 시간초과를 낼까봐 걱정이 되어
+    모든 수에 대해 공약수를 찾는 코드를 작성하지 못했다. 그래서 여러 코드들을 살펴봤는데 대부분 직접 공약수를 탐색해 나갔다.
+    최근들어 자꾸 실행으로 옮기지 못해 다른분들의 코드를 찾아보는 경우가 굉장히 많아진것같다.
+    고쳐야할 습관인것 같다. 또한 내 생각대로 하면 시간초과가 나겠지? 라는 생각을 자주하니깐 아예 직접 시간복잡도에 대해 생각해보는 
+    시간을가져봐야겠다.
+"""
+import sys
+list_a = [0]*2000009
+N = int(sys.stdin.readline())
+list_num = list(map(int, sys.stdin.readline().split()))
+result = N
+for num in list_num:
+    for i in range(1,int(num**0.5)+1):
+        if not num%i:
+            list_a[i]+=1
+            if list_a[i] >= 2 and result < list_a[i] * i:
+                result = list_a[i] * i
+            if not i == num//i:
+                list_a[num//i]+=1
+                if list_a[num//i] >= 2 and result < list_a[num//i] * num//i:
+                    result = list_a[num//i] * num//i
 print(result)
