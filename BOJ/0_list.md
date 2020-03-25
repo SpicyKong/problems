@@ -165,7 +165,6 @@
 |[Q_4781](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4781.py)|[사탕가게](https://www.acmicpc.net/problem/4781)|:smile:(성공)|
 |[Q_1652](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1652.py)|[누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)|:smile:(성공)|
 |[Q_1041](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1041.py)|[주사위](https://www.acmicpc.net/problem/1041)|:smile:(성공)|
-|[Q_1222](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1222.py)|[홍준 프로그래밍 대회](https://www.acmicpc.net/problem/1222)|:exclamation:(실패)|
 |[Q_1072](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1072.py)|[게임](https://www.acmicpc.net/problem/1072)|:smile:(성공)|
 |[Q_4179](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4179.py)|[불!](https://www.acmicpc.net/problem/4179)|:smile:(성공)|
 |[Q_11967](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11967.py)|[불켜기](https://www.acmicpc.net/problem/11967)|:smile:(성공)|
@@ -220,7 +219,7 @@
 |[Q_2169](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2169.py)|[로봇 조종하기](https://www.acmicpc.net/problem/2169)|:smile:(성공)|
 |[Q_16933](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_16933.py)|[벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)|:smile:(성공)|
 |[Q_1981](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1981.py)|[배열에서 이동](https://www.acmicpc.net/problem/1981)|:smile:(성공)|
-
+|[Q_1222](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1222.py)|[홍준 프로그래밍 대회](https://www.acmicpc.net/problem/1222)|:smile:(성공)|
 
 
 
