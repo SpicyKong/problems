@@ -222,7 +222,7 @@
 |[Q_1222](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1222.py)|[홍준 프로그래밍 대회](https://www.acmicpc.net/problem/1222)|:smile:(성공)|
 |[Q_9663](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9663.py)|[N-Queen](https://www.acmicpc.net/problem/9663)|:smile:(성공)|
 |[Q_1799](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1799.py)|[비숍](https://www.acmicpc.net/problem/1799)|:smile:(성공)|
-
+|[Q_1019](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1019.py)|[책 페이지](https://www.acmicpc.net/problem/1019)|:smile:(성공)|
 
 
 
