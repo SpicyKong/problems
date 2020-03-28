@@ -202,7 +202,6 @@
 |[Q_2688](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2688.py)|[줄어들지 않아](https://www.acmicpc.net/problem/2688)|:smile:(성공)|
 |[Q_2157](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2157.py)|[여행](https://www.acmicpc.net/problem/2157)|:exclamation:(실패)|
 |[Q_1753](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1753.py)|[최단경로](https://www.acmicpc.net/problem/1753)|:smile:(성공)|
-|[Q_3197](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3197.py)|[백조의 호수](https://www.acmicpc.net/problem/3197)|:exclamation:(실패)|
 |[Q_16236](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_16236.py)|[아기 상어](https://www.acmicpc.net/problem/16236)|:smile:(성공)|
 |[Q_14503](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_14503.py)|[로봇 청소기](https://www.acmicpc.net/problem/14503)|:smile:(성공)|
 [Q_17144](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_17144.py)|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|:smile:(성공)|
@@ -223,7 +222,7 @@
 |[Q_9663](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9663.py)|[N-Queen](https://www.acmicpc.net/problem/9663)|:smile:(성공)|
 |[Q_1799](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1799.py)|[비숍](https://www.acmicpc.net/problem/1799)|:smile:(성공)|
 |[Q_1019](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1019.py)|[책 페이지](https://www.acmicpc.net/problem/1019)|:smile:(성공)|
-
+|[Q_3197](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3197.py)|[백조의 호수](https://www.acmicpc.net/problem/3197)|:exclamation:(실패)|
 
 
 
