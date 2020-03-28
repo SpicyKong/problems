@@ -78,3 +78,68 @@ while True:
         list_map[y][x] = '.'
     count_ice = save_count
     day+=1
+################################################################################################################
+# https://www.acmicpc.net/problem/3197 문제 제목 : 백조의 호수 , 언어 : Python, 날짜 : 2020-03-28, 결과 : 실패
+"""
+    회고:
+    나는 백조가 탐색하는 부분만 생각하면 될 줄 알았는데 생각해보니 맵 곳곳에서 얼음이 녹는건 생각못했다.
+    내일 풀어야지..ㅠㅠ
+"""
+import sys
+from collections import deque
+def BFS(list_queue, num):
+    global list_map, list_save_queue, list_visit, end
+    while list_queue:
+        now_x, now_y = list_queue.popleft()
+        for i in range(4):
+            nx = now_x + dx[i]
+            ny = now_y + dy[i]
+            if 0 <= nx < C and 0 <= ny < R:
+                if list_visit[ny][nx] != num and list_visit[ny][nx]:
+                    end = 1
+                    return
+                elif list_visit[ny][nx] != num and list_map[ny][nx] == 'L':
+                    end = 1
+                    return
+                elif list_visit[ny][nx] != num and list_map[ny][nx] == '.':
+                    list_visit[ny][nx] = num
+                    list_queue.append([nx,ny])
+                elif list_visit[ny][nx] != num and list_map[ny][nx] == 'X':
+                    list_visit[ny][nx] = num
+                    list_save_queue.append([nx,ny])
+                
+
+
+dx = [1, -1, 0, 0]
+dy = [0, 0, 1, -1]
+R, C = map(int, sys.stdin.readline().split())
+list_map = [list(sys.stdin.readline().strip()) for _ in range(R)]
+list_visit = [[0]*C for _ in range(R)]
+#[print(a) for a in list_visit]
+
+swan = []
+for y in range(R):
+    for x in range(C):
+        if list_map[y][x] == 'L':
+            swan.append([x,y])
+#print(swan)
+list_queue1 = deque()
+list_queue2 = deque()
+list_save_queue = deque()
+list_queue1.append(swan[0])
+list_visit[swan[0][1]][swan[0][0]] = 1
+list_queue2.append(swan[1])
+list_visit[swan[1][1]][swan[1][0]] = 2
+end = 0
+day = 0
+while not end:
+    BFS(list_queue1, 1)
+    while list_save_queue:
+        list_queue1.append(list_save_queue.pop())
+    if end:
+        break
+    BFS(list_queue2, 2)
+    while list_save_queue:
+        list_queue2.append(list_save_queue.pop())
+    day+=1
+print(day)
