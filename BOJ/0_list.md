@@ -223,6 +223,26 @@
 |[Q_1799](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1799.py)|[비숍](https://www.acmicpc.net/problem/1799)|:smile:(성공)|
 |[Q_1019](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1019.py)|[책 페이지](https://www.acmicpc.net/problem/1019)|:smile:(성공)|
 |[Q_3197](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3197.py)|[백조의 호수](https://www.acmicpc.net/problem/3197)|:exclamation:(실패)|
+|[Q_12015](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_12015.py)|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|:smile:(성공)|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
