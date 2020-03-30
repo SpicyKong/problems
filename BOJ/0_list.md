@@ -226,7 +226,7 @@
 |[Q_12015](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_12015.py)|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|:smile:(성공)|
 |[Q_1074](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1074.py)|[Z](https://www.acmicpc.net/problem/1074)|:smile:(성공)|
 |[Q_4963](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4963.py)|[섬의 개수](https://www.acmicpc.net/problem/4963)|:smile:(성공)|
-
+|[Q_2239](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2239.py)|[스도쿠](https://www.acmicpc.net/problem/2239)|:smile:(성공)|
 
 
 
