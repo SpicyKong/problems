@@ -227,7 +227,7 @@
 |[Q_1074](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1074.py)|[Z](https://www.acmicpc.net/problem/1074)|:smile:(성공)|
 |[Q_4963](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4963.py)|[섬의 개수](https://www.acmicpc.net/problem/4963)|:smile:(성공)|
 |[Q_2239](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2239.py)|[스도쿠](https://www.acmicpc.net/problem/2239)|:smile:(성공)|
-
+|[Q_1261](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1261.py)|[알고스팟](https://www.acmicpc.net/problem/1261)|:exclamation:(실패)|
 
 
 
