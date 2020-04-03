@@ -1,5 +1,5 @@
 # 풀어야할 번호
-1009 1222 1520 1904 2002 2140 2157 2579 2580 2622 2638 2751 3025 3197 6986 10827 10944 11401 11505 11559 12096 18017
+1009 1261 1520 1904 2002 2140 2157 2579 2622 2638 2751 3025 3197 6986 10827 10944 11401 11505 11559 12096 18017
 # 풀었던 문제 (제가 풀어본 순서대로 나열되어 있습니다.)
 | 문제 번호 | 문제이름 | 결과 |
 | :--- | :---: | ---: |
@@ -231,7 +231,7 @@
 |[Q_1916](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1916.py)|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|:smile:(성공)|
 |[Q_2482](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2482.py)|[색상환](https://www.acmicpc.net/problem/2482)|:smile:(성공)|
 |[Q_1005](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1005.py)|[ACM Craft](https://www.acmicpc.net/problem/1005)|:smile:(성공)|
-
+|[Q_10942](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10942.py)|[팰린드롬?](https://www.acmicpc.net/problem/10942)|:smile:(성공)|
 
 
 
