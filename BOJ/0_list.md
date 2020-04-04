@@ -232,7 +232,7 @@
 |[Q_2482](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2482.py)|[색상환](https://www.acmicpc.net/problem/2482)|:smile:(성공)|
 |[Q_1005](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1005.py)|[ACM Craft](https://www.acmicpc.net/problem/1005)|:smile:(성공)|
 |[Q_10942](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10942.py)|[팰린드롬?](https://www.acmicpc.net/problem/10942)|:smile:(성공)|
-
+|[Q_1520](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1520.py)|[내리막 길](https://www.acmicpc.net/problem/1520)|:smile:(성공)|
 
 
 
