@@ -234,7 +234,7 @@
 |[Q_10942](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10942.py)|[팰린드롬?](https://www.acmicpc.net/problem/10942)|:smile:(성공)|
 |[Q_1520](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1520.py)|[내리막 길](https://www.acmicpc.net/problem/1520)|:smile:(성공)|
 |[Q_1562](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1562.py)|[계단 수](https://www.acmicpc.net/problem/1562)|:smile:(성공)|
-
+|[Q_9251](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9251.py)|[LCS](https://www.acmicpc.net/problem/9251)|:smile:(성공)|
 
 
 
