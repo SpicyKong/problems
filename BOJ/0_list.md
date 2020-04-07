@@ -235,7 +235,7 @@
 |[Q_1520](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1520.py)|[내리막 길](https://www.acmicpc.net/problem/1520)|:smile:(성공)|
 |[Q_1562](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1562.py)|[계단 수](https://www.acmicpc.net/problem/1562)|:smile:(성공)|
 |[Q_9251](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9251.py)|[LCS](https://www.acmicpc.net/problem/9251)|:smile:(성공)|
-
+|[Q_1701](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1701.py)|[Cubeditor](https://www.acmicpc.net/problem/1701)|:smile:(성공)|
 
 
 
