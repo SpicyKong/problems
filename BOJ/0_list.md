@@ -237,7 +237,7 @@
 |[Q_9251](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9251.py)|[LCS](https://www.acmicpc.net/problem/9251)|:smile:(성공)|
 |[Q_1701](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1701.py)|[Cubeditor](https://www.acmicpc.net/problem/1701)|:smile:(성공)|
 |[Q_2698](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2698.py)|[인접한 비트의 개수](https://www.acmicpc.net/problem/2698)|:smile:(성공)|
-
+|[Q_1644](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1644.py)|[소수의 연속합](https://www.acmicpc.net/problem/1644)|:smile:(성공)|
 
 
 
