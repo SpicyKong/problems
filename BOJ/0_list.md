@@ -240,7 +240,7 @@
 |[Q_1644](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1644.py)|[소수의 연속합](https://www.acmicpc.net/problem/1644)|:smile:(성공)|
 |[Q_2075](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2075.py)|[N번째 큰 수](https://www.acmicpc.net/problem/2075)|:smile:(성공)|
 |[Q_1963](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1963.py)|[소수 경로](https://www.acmicpc.net/problem/1963)|:smile:(성공)|
-
+|[Q_1197](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1197.py)|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|:smile:(성공)|
 
 
 
