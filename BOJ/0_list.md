@@ -242,7 +242,8 @@
 |[Q_1963](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1963.py)|[소수 경로](https://www.acmicpc.net/problem/1963)|:smile:(성공)|
 |[Q_1197](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1197.py)|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|:smile:(성공)|
 |[Q_1717](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1717.py)|[집합의 표현](https://www.acmicpc.net/problem/1717)|:smile:(성공)|
-
+|[Q_4195](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4195.py)|[친구 네트워크](https://www.acmicpc.net/problem/4195)|:smile:(성공)|
+|[Q_2887](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2887.py)|[행성 터널](https://www.acmicpc.net/problem/2887)|:smile:(성공)|
 
 
 
