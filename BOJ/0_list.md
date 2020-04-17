@@ -245,8 +245,8 @@
 |[Q_4195](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4195.py)|[친구 네트워크](https://www.acmicpc.net/problem/4195)|:smile:(성공)|
 |[Q_2887](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2887.py)|[행성 터널](https://www.acmicpc.net/problem/2887)|:smile:(성공)|
 |[Q_10423](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10423.py)|[전기가 부족해](https://www.acmicpc.net/problem/10423)|:smile:(성공)|
-
-
+|[Q_14267](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_14267.py)|[내리 갈굼](https://www.acmicpc.net/problem/14267)|:smile:(성공)|
+|[Q_1275](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1275.py)|[커피숍2](https://www.acmicpc.net/problem/1275)|:smile:(성공)|
 
 
 
