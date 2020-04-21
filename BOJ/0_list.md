@@ -250,7 +250,7 @@
 |[Q_2357](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2357.py)|[최솟값과 최댓값](https://www.acmicpc.net/problem/2357)|:smile:(성공)|
 |[Q_2211](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2211.py)|[네트워크 복구](https://www.acmicpc.net/problem/2211)|:smile:(성공)|
 |[Q_1602](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1602.py)|[도망자 원숭이](https://www.acmicpc.net/problem/1602)|:smile:(성공)|
-
+|[Q_5214](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5214.py)|[환승](https://www.acmicpc.net/problem/5214)|:smile:(성공)|
 
 
 
