@@ -252,7 +252,7 @@
 |[Q_1602](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1602.py)|[도망자 원숭이](https://www.acmicpc.net/problem/1602)|:smile:(성공)|
 |[Q_5214](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5214.py)|[환승](https://www.acmicpc.net/problem/5214)|:smile:(성공)|
 |[Q_10868](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10868.py)|[최솟값](https://www.acmicpc.net/problem/10868)|:smile:(성공)|
-
+|[Q_6549](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_6549.py)|[히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)|:exclamation:(실패)|
 
 
 
