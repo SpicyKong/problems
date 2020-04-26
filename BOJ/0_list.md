@@ -255,7 +255,7 @@
 |[Q_6549](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_6549.py)|[히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549)|:exclamation:(실패)|
 |[Q_2631](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2631.py)|[줄세우기](https://www.acmicpc.net/problem/2631)|:smile:(성공)|
 |[Q_2240](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2240.py)|[자두나무](https://www.acmicpc.net/problem/2240)|:smile:(성공)|
-
+|[Q_9764](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9764.py)|[서로 다른 자연수의 합](https://www.acmicpc.net/problem/9764)|:smile:(성공)|
 
 
 
