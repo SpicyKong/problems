@@ -258,6 +258,13 @@
 |[Q_9764](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9764.py)|[서로 다른 자연수의 합](https://www.acmicpc.net/problem/9764)|:smile:(성공)|
 |[Q_11414](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11414.py)|[LCM](https://www.acmicpc.net/problem/11414)|:exclamation:(실패)|
 |[Q_1525](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1525.py)|[퍼즐](https://www.acmicpc.net/problem/1525)|:smile:(성공)|
+|[Q_5427](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5427.py)|[불](https://www.acmicpc.net/problem/5427)|:smile:(성공)|
+
+
+
+
+
+
 
 
 
