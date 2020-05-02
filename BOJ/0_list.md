@@ -261,7 +261,7 @@
 |[Q_5427](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_5427.py)|[불](https://www.acmicpc.net/problem/5427)|:smile:(성공)|
 |[Q_11404](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11404.py)|[플로이드](https://www.acmicpc.net/problem/11404)|:smile:(성공)|
 |[Q_1507](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1507.py)|[궁금한 민호](https://www.acmicpc.net/problem/1507)|:smile:(성공)|
-
+|[Q_2660](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2660.py)|[회장뽑기](https://www.acmicpc.net/problem/2660)|:smile:(성공)|
 
 
 
