@@ -131,3 +131,36 @@ print(list_a)
 010101010
 000101010
 """
+
+# https://www.acmicpc.net/problem/1261 문제 제목 : 알고스팟 , 언어 : Python, 날짜 : 2020-05-07, 결과 : 성공
+"""
+    회고:
+    아이패드에 플로이드 와샬을 정리하다가 갑자기 다익스트라를 복습해야 할거같아서 다익스트라 문제를 풀어 보았다. 이 문제는 예전에도 푼 적이 있었는데,
+    그 당시에는 저 힙을 이용한 우선순위큐를 직접 구현해서 그런지 메모리, 시간초과가 모두 났었다.. 그래서 오늘은 그냥 모듈을 사용했더니 매우 빠르게 실행이 되었다.
+    다만 맨 처음에 M, N을 N, M으로 봐서 틀렸었다.
+"""
+
+import sys
+import heapq
+
+M, N = map(int, sys.stdin.readline().split())
+list_dist = [[10001]*M for _ in range(N)]
+dx = (1, -1, 0, 0)
+dy = (0, 0, 1, -1)
+list_map = [list(map(int, list(sys.stdin.readline().strip()))) for _ in range(N)]
+list_queue = [(0, 0, 0)]
+result = 10001
+while list_queue:
+    now_cost, now_x, now_y = heapq.heappop(list_queue)
+    if now_x == M-1 and now_y == N-1:
+        result = now_cost
+    if now_cost >= result:
+        continue
+    for i in [0,1,2,3]:
+        nx = dx[i] + now_x
+        ny = dy[i] + now_y
+        if 0 <= nx < M and 0 <= ny < N:
+            if list_dist[ny][nx] > now_cost + list_map[ny][nx]:
+                list_dist[ny][nx] = now_cost + list_map[ny][nx]
+                heapq.heappush(list_queue, (list_dist[ny][nx], nx, ny))
+print(result)
