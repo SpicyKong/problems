@@ -227,7 +227,6 @@
 |[Q_1074](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1074.py)|[Z](https://www.acmicpc.net/problem/1074)|:smile:(성공)|
 |[Q_4963](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_4963.py)|[섬의 개수](https://www.acmicpc.net/problem/4963)|:smile:(성공)|
 |[Q_2239](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2239.py)|[스도쿠](https://www.acmicpc.net/problem/2239)|:smile:(성공)|
-|[Q_1261](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1261.py)|[알고스팟](https://www.acmicpc.net/problem/1261)|:exclamation:(실패)|
 |[Q_1916](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1916.py)|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|:smile:(성공)|
 |[Q_2482](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2482.py)|[색상환](https://www.acmicpc.net/problem/2482)|:smile:(성공)|
 |[Q_1005](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1005.py)|[ACM Craft](https://www.acmicpc.net/problem/1005)|:smile:(성공)|
@@ -266,6 +265,18 @@
 |[Q_2268](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2268.py)|[수들의 합](https://www.acmicpc.net/problem/2268)|:smile:(성공)|
 |[Q_10999](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10999.py)|[구간 합 구하기 2](https://www.acmicpc.net/problem/10999)|:smile:(성공)|
 |[Q_1414](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1414.py)|[불우이웃돕기](https://www.acmicpc.net/problem/1414)|:smile:(성공)|
+|[Q_1261](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1261.py)|[알고스팟](https://www.acmicpc.net/problem/1261)|:smile:(성공)|
+
+
+
+
+
+
+
+
+
+
+
 
 
 
