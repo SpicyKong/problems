@@ -266,7 +266,7 @@
 |[Q_10999](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10999.py)|[구간 합 구하기 2](https://www.acmicpc.net/problem/10999)|:smile:(성공)|
 |[Q_1414](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1414.py)|[불우이웃돕기](https://www.acmicpc.net/problem/1414)|:smile:(성공)|
 |[Q_1261](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1261.py)|[알고스팟](https://www.acmicpc.net/problem/1261)|:smile:(성공)|
-
+|[Q_2836](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2836.py)|[수상 택시](https://www.acmicpc.net/problem/2836)|:smile:(성공)|
 
 
 
