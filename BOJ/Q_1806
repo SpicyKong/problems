@@ -1,0 +1,39 @@
+# https://www.acmicpc.net/problem/1806 문제 제목 : 부분합 , 언어 : Python, 날짜 : 2020-05-10, 결과 : 성공
+"""
+    회고:
+    투 포인터 알고리즘을 복습해 보았다. 값보다 값보다 커지면 범위를 좁히고 작으면 범위를 넓히는 알고리즘이다.
+    그리고 이 문제에서는 길이를 구해야 하므로 인덱스끼리 빼주면 된다.
+
+    어제 소마 면접을 보고 왔다.
+    로컬에 주석으로 몇가지 사항들을 적어두었다
+"""
+import sys
+N, S = map(int, sys.stdin.readline().split())
+list_num = list(map(int, sys.stdin.readline().split()))
+s = e = 0
+now_sum = 0
+result = 100000
+while s < N:
+    #print(s,e,now_sum)
+    if e < N and now_sum < S:
+        now_sum += list_num[e]
+        e+=1
+    else:
+        now_sum -= list_num[s]
+        s+=1
+    if now_sum >= S:
+        result = min(result, e-s)
+if result == 100000:
+    print(0)
+else:
+    print(result)
+
+"""
+10 10
+1 1 1 1 1 1 1 1 1 1
+
+10 33961
+3446 7276 7627 937 9550 1712 3495 2909 4668 5230 
+10 9
+1 1 1 1 1 1 1 1 1 8
+"""
