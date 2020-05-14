@@ -271,7 +271,7 @@
 |[Q_11758](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_11758.py)|[CCW](https://www.acmicpc.net/problem/11758)|:smile:(성공)|
 |[Q_1027](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1027.py)|[고층 건물](https://www.acmicpc.net/problem/1027)|:smile:(성공)|
 |[Q_15725](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_15725.py)|[다항함수의 미분](https://www.acmicpc.net/problem/15725)|:smile:(성공)|
-
+|[Q_10026](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_10026.py)|[적록색약](https://www.acmicpc.net/problem/10026)|:smile:(성공)|
 
 
 
