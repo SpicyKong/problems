@@ -275,7 +275,7 @@
 |[Q_2302](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2302.py)|[극장 좌석](https://www.acmicpc.net/problem/2302)|:smile:(성공)|
 |[Q_2624](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2624.py)|[동전 바꿔주기](https://www.acmicpc.net/problem/2624)|:exclamation:(실패)|
 |[Q_1669](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1669.py)|[멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669)|:smile:(성공)|
-
+|[Q_1700](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1700.py)|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|:smile:(성공)|
 
 
 
