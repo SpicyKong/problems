@@ -276,6 +276,16 @@
 |[Q_2624](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2624.py)|[동전 바꿔주기](https://www.acmicpc.net/problem/2624)|:exclamation:(실패)|
 |[Q_1669](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1669.py)|[멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669)|:smile:(성공)|
 |[Q_1700](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1700.py)|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|:smile:(성공)|
+|[Q_2162](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2162.py)|[선분 그룹](https://www.acmicpc.net/problem/2162)|:smile:(성공)|
+
+
+
+
+
+
+
+
+
 
 
 
