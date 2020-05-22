@@ -279,7 +279,7 @@
 |[Q_2162](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2162.py)|[선분 그룹](https://www.acmicpc.net/problem/2162)|:smile:(성공)|
 |[Q_1445](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1445.py)|[일요일 아침의 데이트](https://www.acmicpc.net/problem/1445)|:smile:(성공)|
 |[Q_1089](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1089.py)|[엘리베이터](https://www.acmicpc.net/problem/1089)|:exclamation:(실패)|
-
+|[Q_1062](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1062.py)|[가르침](https://www.acmicpc.net/problem/1062)|:smile:(성공)|
 
 
 
