@@ -281,7 +281,7 @@
 |[Q_1089](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1089.py)|[엘리베이터](https://www.acmicpc.net/problem/1089)|:exclamation:(실패)|
 |[Q_1062](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1062.py)|[가르침](https://www.acmicpc.net/problem/1062)|:smile:(성공)|
 |[Q_1938](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1938.py)|[통나무 옮기기](https://www.acmicpc.net/problem/1938)|:exclamation:(실패)|
-
+|[Q_1938](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1938.py)|[통나무 옮기기](https://www.acmicpc.net/problem/1938)|:smile:(성공)|
 
 
 
