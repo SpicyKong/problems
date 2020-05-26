@@ -282,7 +282,7 @@
 |[Q_1062](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1062.py)|[가르침](https://www.acmicpc.net/problem/1062)|:smile:(성공)|
 |[Q_1938](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1938.py)|[통나무 옮기기](https://www.acmicpc.net/problem/1938)|:exclamation:(실패)|
 |[Q_1938](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1938.py)|[통나무 옮기기](https://www.acmicpc.net/problem/1938)|:smile:(성공)|
-
+|[Q_6593](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_6593.py)|[상범 빌딩](https://www.acmicpc.net/problem/6593)|:smile:(성공)|
 
 
 
