@@ -284,7 +284,7 @@
 |[Q_1938](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1938.py)|[통나무 옮기기](https://www.acmicpc.net/problem/1938)|:smile:(성공)|
 |[Q_6593](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_6593.py)|[상범 빌딩](https://www.acmicpc.net/problem/6593)|:smile:(성공)|
 |[Q_2140](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2140.py)|[지뢰찾기](https://www.acmicpc.net/problem/2140)|:smile:(성공)|
-
+|[Q_3671](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3671.py)|[산업 스파이의 편지](https://www.acmicpc.net/problem/3671)|:smile:(성공)|
 
 
 
