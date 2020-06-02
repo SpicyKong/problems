@@ -286,6 +286,7 @@
 |[Q_2140](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2140.py)|[지뢰찾기](https://www.acmicpc.net/problem/2140)|:smile:(성공)|
 |[Q_3671](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3671.py)|[산업 스파이의 편지](https://www.acmicpc.net/problem/3671)|:smile:(성공)|
 |[Q_2470](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2470.py)|[두 용액](https://www.acmicpc.net/problem/2470)|:smile:(성공)|
+|[Q_1484](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1484.py)|[다이어트](https://www.acmicpc.net/problem/1484)|:smile:(성공)|
 
 
 
