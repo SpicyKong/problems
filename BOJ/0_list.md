@@ -288,7 +288,7 @@
 |[Q_2470](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2470.py)|[두 용액](https://www.acmicpc.net/problem/2470)|:smile:(성공)|
 |[Q_1484](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1484.py)|[다이어트](https://www.acmicpc.net/problem/1484)|:smile:(성공)|
 |[Q_2666](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2666.py)|[벽장문의 이동](https://www.acmicpc.net/problem/2666)|:smile:(성공)|
-
+|[Q_1342](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1342.py)|[행운의 문자열](https://www.acmicpc.net/problem/1342)|:smile:(성공)|
 
 
 
