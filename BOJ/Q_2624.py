@@ -1,3 +1,45 @@
+# https://www.acmicpc.net/problem/2624 문제 제목 : 동전 바꿔주기 , 언어 : Python, 날짜 : 2020-06-05, 결과 : 성공
+
+"""
+    회고:
+    혼자서 삽질하다, 도저히 솔루션이 떠오르지 않아서 다른 분의 코드를 보며 작성했다.
+    어떻게 이런 생각을 할 수 있는건지 잘 모르겠다. 나는 그냥 바텀업 방식으로만 생각을 해 보았는데,
+    도저히 메모이 제이션이 어떤식으로 이루어 지는지 이해가 안되서 포기했었다. 근데 이 코드를 보면
+    사용된 동전의 가지수를 이용해 메모이 제이션이 진행된다.. 도저히 dp는 못풀겠다..
+"""
+
+import sys
+def dfs(now, count):
+    global T, K
+    if now == 0:
+        return 1
+    if count>=K:
+        return 0
+    if not list_memo[now][count] == -1:
+        return list_memo[now][count]
+    
+    list_memo[now][count] = 0
+    for nok in range(list_coin[count][1]+1): #NOK : num of coins
+        if now - list_coin[count][0]*nok>=0:
+            list_memo[now][count] += dfs(now - list_coin[count][0]*nok, count+1)
+    
+    return list_memo[now][count]
+
+    
+T = int(sys.stdin.readline())
+K = int(sys.stdin.readline())
+list_coin = [list(map(int, sys.stdin.readline().split())) for _ in range(K)]
+list_memo = [[-1]*(K+1) for _ in range(T+1)]
+print(dfs(T, 0))
+
+print('------------')
+[print(a) for a in list_memo]
+#list_memo[0][0] = 0
+#for cost in range(T+1):
+#    for coin in range(K):
+#        for count in range(list_coin[coint][1]):
+
+
 # https://www.acmicpc.net/problem/2624 문제 제목 : 동전 바꿔주기 , 언어 : Python, 날짜 : 2020-05-16, 결과 : 실패
 """
     회고:
