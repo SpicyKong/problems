@@ -291,6 +291,13 @@
 |[Q_1342](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1342.py)|[행운의 문자열](https://www.acmicpc.net/problem/1342)|:smile:(성공)|
 |[Q_2624](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2624.py)|[동전 바꿔주기](https://www.acmicpc.net/problem/2624)|:smile:(성공)|
 |[Q_2225](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2225.py)|[합분해](https://www.acmicpc.net/problem/2225)|:smile:(성공)|
+|[Q_7579](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_7579.py)|[앱](https://www.acmicpc.net/problem/7579)|:smile:(성공)|
+
+
+
+
+
+
 
 
 
