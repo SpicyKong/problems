@@ -1,5 +1,5 @@
 # 풀어야할 번호
-1009 1261 1520 1904 2002 2140 2157 2579 2622 2638 2751 3025 3197 6986 10827 10944 11401 11505 11559 12096 18017
+1009 1089 1904 2157 2622 2638 2751 3025 3197 6549 6986 10827 10944 11401 11505 11559 12096 18017 18821
 # 풀었던 문제 (제가 풀어본 순서대로 나열되어 있습니다.)
 | 문제 번호 | 문제이름 | 결과 |
 | :--- | :---: | ---: |
@@ -292,7 +292,7 @@
 |[Q_2624](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2624.py)|[동전 바꿔주기](https://www.acmicpc.net/problem/2624)|:smile:(성공)|
 |[Q_2225](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2225.py)|[합분해](https://www.acmicpc.net/problem/2225)|:smile:(성공)|
 |[Q_7579](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_7579.py)|[앱](https://www.acmicpc.net/problem/7579)|:smile:(성공)|
-
+|[Q_2002](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2002.py)|[추월](https://www.acmicpc.net/problem/2002)|:smile:(성공)|
 
 
 
