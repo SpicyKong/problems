@@ -295,7 +295,7 @@
 |[Q_2002](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2002.py)|[추월](https://www.acmicpc.net/problem/2002)|:smile:(성공)|
 |[Q_3109](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_3109.py)|[빵집](https://www.acmicpc.net/problem/3109)|:exclamation:(실패)|
 |[Q_2352](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2352.py)|[반도체 설계](https://www.acmicpc.net/problem/2352)|:smile:(성공)|
-
+|[Q_2186](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2186.py)|[문자판](https://www.acmicpc.net/problem/2186)|:smile:(성공)|
 
 
 
