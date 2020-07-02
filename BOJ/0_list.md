@@ -297,6 +297,18 @@
 |[Q_2352](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2352.py)|[반도체 설계](https://www.acmicpc.net/problem/2352)|:smile:(성공)|
 |[Q_2186](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_2186.py)|[문자판](https://www.acmicpc.net/problem/2186)|:smile:(성공)|
 |[Q_1563](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_1563.py)|[개근상](https://www.acmicpc.net/problem/1563)|:smile:(성공)|
+|[Q_9466](https://github.com/SpicyKong/problems/blob/master/BOJ/Q_9466.py)|[텀 프로젝트](https://www.acmicpc.net/problem/9466)|:smile:(성공)|
+
+
+
+
+
+
+
+
+
+
+
 
 
 
